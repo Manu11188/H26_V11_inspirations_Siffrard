@@ -13,6 +13,11 @@ L'exposition qui ma inspire est l'oasis immersion dans ce lieux, il ont utilisé
   <img width="242" height="197" alt="image" src="https://github.com/user-attachments/assets/b115508c-3df8-48b9-9cc8-e6265cf13cfb" /> 
   
 >  Capture d'écran du site web https://fr.freepik.com/vecteurs-premium/appareil-photo-dessin-anime-illustration-vectorielle_32539524.htm, consulté le 23 janvier 2026.
+
+<img width="214" height="208" alt="image" src="https://github.com/user-attachments/assets/4f2d8eaa-4349-466d-88d6-d29067f2802c" />
+
+>  Capture d'écran du site web https://www.footpack.fr/188266-ligue-des-champions-le-nouveau-ballon-devoile-par-adidas, consulté le 23 janvier 2026.
+
  
 
  
