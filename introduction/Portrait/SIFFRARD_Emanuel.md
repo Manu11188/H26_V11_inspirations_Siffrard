@@ -6,5 +6,6 @@ Dans le multimédia, Mes champs d'intérets sont la photographie, le montage pho
 L'exposition qui ma inspire est l'oasis immersion dans ce lieux, il ont utilisé le multimédia pour ansi nous faire un message de sensibilisation sur la planète terre. Cette exposition ma particulièrement inspirée puisque que la lutte contre le réchaufement climatique me tient à coeur.
 # Photos qui me représente
 <img width="242" height="197" alt="image" src="https://github.com/user-attachments/assets/b115508c-3df8-48b9-9cc8-e6265cf13cfb" />
+https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/introduction/Portrait/photos.md/OIP%20(1).webp
 
 
