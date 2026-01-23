@@ -3,7 +3,8 @@
 # Mes champs d'interets dans le multimédia
 Dans le multimédia, Mes champs d'intérets sont la photographie, le montage photo et vidéos et l'animation 2d/3d. j'ai aussi un intérets sur le cinéma tout ce qui est acting,réalisation et les makin off d'un film.
 
-<img width="330" height="185" alt="image" src="https://github.com/user-attachments/assets/28d74a43-a8d0-4be0-b254-b4e88d6ea351" />
+<img width="330" height="185" alt="image" src="https://github.com/user-attachments/assets/28d74a43-a8d0-4be0-b254-b4e88d6ea351" />   <img width="320" height="150" alt="image" src="https://github.com/user-attachments/assets/2bdb6b8f-0e1f-40d8-972c-279b76943571" />
+
 
 > Capture d'écran du site web https://devenir-realisateur.com/lexique/attachment/plateau_de_tournage_sae_paris/ consulté le 23 janvier 2026.
 
