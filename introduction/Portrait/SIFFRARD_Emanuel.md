@@ -1,7 +1,7 @@
 # Emanuel Siffrard
 
 # Mes champs d'interets dans le multimédia
-Dans le multimédia, Mes champs d'intérets sont la photographie, le montage photo et vidéos et l'animation 2d/3d. j'ai aussi un intérets sur le cinéma tout ce qui est acting,réalisation et les makin off d'Un film.
+Dans le multimédia, Mes champs d'intérets sont la photographie, le montage photo et vidéos et l'animation 2d/3d. j'ai aussi un intérets sur le cinéma tout ce qui est acting,réalisation et les makin off d'un film.
 
 <img width="330" height="185" alt="image" src="https://github.com/user-attachments/assets/28d74a43-a8d0-4be0-b254-b4e88d6ea351" />
 
