@@ -1,7 +1,12 @@
 # Emanuel Siffrard
 
 # Mes champs d'interets dans le multimédia
-Dans le multimédia, Mes champs d'intérets sont la photographie, le montage photo et vidéos et l'animation 2d/3d.
+Dans le multimédia, Mes champs d'intérets sont la photographie, le montage photo et vidéos et l'animation 2d/3d et le cinéma.
+
+<img width="330" height="185" alt="image" src="https://github.com/user-attachments/assets/28d74a43-a8d0-4be0-b254-b4e88d6ea351" />
+
+> Capture d'écran du site web https://devenir-realisateur.com/lexique/attachment/plateau_de_tournage_sae_paris/ consulté le 23 janvier 2026.
+
 
 L'exposition qui ma inspire est l'oasis immersion dans ce lieux, il ont utilisé le multimédia pour ansi nous faire un message de sensibilisation sur la planète terre. Cette exposition ma particulièrement inspirée puisque que la lutte contre le réchaufement climatique me tient à coeur.
 # Photos qui me représente
