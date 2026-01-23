@@ -8,7 +8,7 @@ L'exposition qui ma inspire est l'oasis immersion dans ce lieux, il ont utilisé
   <img width="242" height="197" alt="image" src="https://github.com/user-attachments/assets/b115508c-3df8-48b9-9cc8-e6265cf13cfb" /> 
   
 >  Capture d'écran du site web https://fr.freepik.com/vecteurs-premium/appareil-photo-dessin-anime-illustration-vectorielle_32539524.htm, consulté le 23 janvier 2026.
-
+ 
 
  
 
