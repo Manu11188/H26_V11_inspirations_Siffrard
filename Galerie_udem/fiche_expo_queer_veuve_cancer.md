@@ -4,6 +4,7 @@
 
 # Lieu de mise en exposition
 ![devant_batiment02_](https://github.com/user-attachments/assets/1c483eaf-6ef6-479e-b6c7-8d5a5b694976)
+>Photo prise devant le lieux d'exposition
 
 # Type de l'exposition
 Le type d'exposition est interieur. De plus, cette exposition est tempraire.
