@@ -1,5 +1,5 @@
 # Galerie de l'udem
-![pratiques_ia_02](https://github.com/user-attachments/assets/f76b3775-2054-4951-84ab-de3b99bbe62c)
+![pratiques_ia_02](https://github.com/user-attachments/assets/4b815d5c-9fbe-4909-88f7-9054e546453e)
 
 
 
