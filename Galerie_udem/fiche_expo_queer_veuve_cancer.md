@@ -14,7 +14,7 @@ Le type d'exposition est interieur. De plus, cette exposition est tempraire.
 
 # Titre de l'oeuvre
 
- Queer,veuve,cancer
+ **Queer,veuve,cancer**
 
 Par: Dayna Mcleod
 
@@ -26,6 +26,7 @@ Fait le: 2025-11-28
 # Description de l'oeuvre
 
 ![detail_oeuvres_](https://github.com/user-attachments/assets/eb9f2dd3-7d5e-4019-8bbb-d5d041839791)
+>Nom de l'artiste
 
 
 
