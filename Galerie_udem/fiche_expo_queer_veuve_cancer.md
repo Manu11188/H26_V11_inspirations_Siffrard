@@ -12,9 +12,9 @@ Le type d'exposition est interieur. De plus, cette exposition est tempraire.
 
 # Titre de l'oeuvre
 
-#Queer,veuve,cancer
+# Queer,veuve,cancer
  
-![trois_ecran_](https://github.com/user-attachments/assets/b3182c89-22d9-436f-a6dc-e311c43c19d6 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3110942a-dad4-4cb3-9b30-c9bdeea03290)
+![trois_ecran_](https://github.com/user-attachments/assets/b3182c89-22d9-436f-a6dc-e311c43c19d6 ! [vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3110942a-dad4-4cb3-9b30-c9bdeea03290)
 
 
 
