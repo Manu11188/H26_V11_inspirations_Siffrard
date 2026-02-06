@@ -1,5 +1,5 @@
 # Galerie de l'udem
-![pratiques_ia_02](image_small.png)
+<img src="oeuvres/tp1/pratique_ia_02.jpg" width="300">
 
 
 
