@@ -1,5 +1,6 @@
 # Galerie de l'udem
-<img src="oeuvres/tp1/pratique_ia_02.jpg" width="300">
+![pratiques_ia_02](https://github.com/user-attachments/assets/f76b3775-2054-4951-84ab-de3b99bbe62c)
+
 
 
 
