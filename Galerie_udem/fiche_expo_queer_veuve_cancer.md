@@ -22,7 +22,7 @@ Le type d'exposition est interieur. De plus, cette exposition est tempraire.
  
  ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
->Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
+>Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 
 # Description de l'oeuvre
@@ -51,12 +51,12 @@ Pour les composantes cette oeuvres à eu besion d'un pc, d'un écran, de plusieu
 Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenier l'écran central. Pour la mise en exposition, il y a aussi une extension pour les haut-parleurs
 
 ![mur_blanc_](https://github.com/user-attachments/assets/0c21fd50-83b4-41b0-b4eb-3bcec42d9cc9)
->Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
+>Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Experiance vécue
 
 ![vue_ensemble_03](https://github.com/user-attachments/assets/3f5e104d-2131-4b67-ba86-80fccfcdf9c4)
->Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
+>Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Ce qui ma plus 
 
