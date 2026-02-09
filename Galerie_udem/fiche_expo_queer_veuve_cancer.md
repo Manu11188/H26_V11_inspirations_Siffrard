@@ -44,7 +44,7 @@ Pour cette exposition il y a deux fonction soit la fonction de mise en contexte 
 >Photo prise à l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Composantes et techniques
-Pour les composantes cette oeuvres à eu besion d'un pc d'un écran, de plusieurs écran d'ordinateurs, un système de son,fils et des prise de courants. Aussi, l'artiste à utilisé ia pour la representations de ces personnages durant le cours metrage de son oeuvre.
+Pour les composantes cette oeuvres à eu besion d'un pc, d'un écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé ia pour la representations de ces personnages durant le cours metrage de son oeuvre.
 
 # Effets nécessaires à la mise en exposition
 
