@@ -48,7 +48,7 @@ Pour les composantes cette oeuvres à eu besion d'un pc d'un écran, de plusieur
 
 # Effets nécessaires à la mise en exposition
 
-Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenier l'écran central. Pour la mise en exposition il y a aussi une extension pour les haut-parleurs
+Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenier l'écran central. Pour la mise en exposition, il y a aussi une extension pour les haut-parleurs
 
 ![mur_blanc_](https://github.com/user-attachments/assets/0c21fd50-83b4-41b0-b4eb-3bcec42d9cc9)
 >Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
