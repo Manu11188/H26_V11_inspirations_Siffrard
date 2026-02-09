@@ -41,13 +41,14 @@ Pour cette exposition il y a deux fonction soit la fonction de mise en contexte 
 # Mise en espace 
 
 ![croquis_oeuvre_](https://github.com/user-attachments/assets/40725991-829d-46c0-80bb-b47bcc7b0397)
+>Photo prise à l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Composantes et techniques
-Pour les composantes cette oeuvres à eu besion d'un pc d'un écran, de plusieurs écran d'ordinateurs, un système de son,fils et des prise de courants
+Pour les composantes cette oeuvres à eu besion d'un pc d'un écran, de plusieurs écran d'ordinateurs, un système de son,fils et des prise de courants. Aussi, l'artiste à utilisé ia pour la representations de ces personnages durant le cours metrage de son oeuvre.
 
 # Effets nécessaires à la mise en exposition
 
-Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc
+Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenier l'écran central. Pour la mise en exposition il y a aussi une extension pour les haut-parleurs
 
 ![mur_blanc_](https://github.com/user-attachments/assets/0c21fd50-83b4-41b0-b4eb-3bcec42d9cc9)
 >Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
@@ -59,7 +60,7 @@ Comme on peut le constateur avec les photos avec cette partie du travail, on peu
 
 # Ce qui ma plus 
 
-Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition fait une belle preuve de sensibilisation et de perséverance ces pour ces raisons que j'ai aimé et que j'ai décidé de chosir cette exposition.
+Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition fait une belle preuve de sensibilisation sur le sujet et de perséverance ces pour ces raisons que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique inspériances
 
 # Aspect que je ne shouaite pas retenir
 
