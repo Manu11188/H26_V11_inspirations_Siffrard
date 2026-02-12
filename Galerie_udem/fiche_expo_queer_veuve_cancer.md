@@ -22,7 +22,8 @@ Le type d'exposition est interieur. De plus, cette exposition est tempraire.
  
  ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
-![ordinateur_01_](https://github.com/user-attachments/assets/7ae459df-4673-403c-b397-210ecf7bdf40)
+![mCu9b](https://github.com/user-attachments/assets/4b1b5f44-104a-46ff-8264-0251af5bc653)
+
 
 >Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
