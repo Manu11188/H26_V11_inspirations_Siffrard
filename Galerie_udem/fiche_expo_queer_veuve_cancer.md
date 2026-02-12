@@ -7,7 +7,7 @@
 >Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Type de l'exposition
-Le type d'exposition est interieur. De plus, cette exposition est tempraire.
+Le type d'exposition est interieur. De plus, cette exposition est temporaire pour crée un effet de rencontre entre l'oeuvre et le public. Le but de l'instalation est une situation à vivre seulement sur place.
 
 # Date de viste
 2026-01-30
@@ -22,11 +22,7 @@ Le type d'exposition est interieur. De plus, cette exposition est tempraire.
  
  ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
-![ordinateur_01_](https://github.com/user-attachments/assets/b74b5b72-0410-4ff2-ae60-0dec4be6ba70)
-
-
 >Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
-
 
 # Description de l'oeuvre
 
@@ -35,11 +31,11 @@ Le type d'exposition est interieur. De plus, cette exposition est tempraire.
 
 # Type d'instalation
 
-Pour cette oeuvre, le type d'instalation sont de type immersive et contemplative.
+Pour cette oeuvre, c'est une installation vidéo composé de trois petits écran et d'une grande écran disposé sur un long mur. ces écrans,dispose de casques d'écoute pour ansi avoir une belle éxpériance individuelle. Ses installations, sont contemplative avec une une immersion qui est crée par la multiplication des écrans et aussi par l'isolment sonore.
 
 # Fonction du dispositif
 
-Pour cette exposition il y a deux fonction soit la fonction de mise en contexte et aussi la scénographie
+Pour cette exposition, on est plus dans un contexte de scénographie qui met en valeur l'espace de l'exposition pour ansi guider le regard du spectateur avec la cohérence visuelle. Pour cette oeuvre on ne cherche pas à étre spectaculaire mais on cherche à étre mettre l'accent sur le témoignage.
 
 # Mise en espace 
 
@@ -47,11 +43,14 @@ Pour cette exposition il y a deux fonction soit la fonction de mise en contexte 
 >Photo prise à l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Composantes et techniques
-Pour les composantes cette oeuvres à eu besion d'un pc, d'un écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé ia pour la representations de ces personnages durant le cours metrage de son oeuvre.
+Pour les composantes cette oeuvres à eu besion d'un pc, d'un écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé ia pour la representations de ces personnages durant le cours metrage de son oeuvre. Aussi  pour les techniques ces une vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quuand la personne mets les écouteur.
+
+![ordinateur_01_](https://github.com/user-attachments/assets/b74b5b72-0410-4ff2-ae60-0dec4be6ba70)
+>Photo prise à l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Effets nécessaires à la mise en exposition
 
-Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenier l'écran central. Pour la mise en exposition, il y a aussi une extension pour les haut-parleurs
+Comme on peut le constateur avec les photos avec cette partie du travail, on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenier l'écran central. Pour la mise en exposition, il y a aussi une extension pour l'installation des haut-parleurs.
 
 ![mur_blanc_](https://github.com/user-attachments/assets/0c21fd50-83b4-41b0-b4eb-3bcec42d9cc9)
 >Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
@@ -63,9 +62,11 @@ Comme on peut le constateur avec les photos avec cette partie du travail, on peu
 
 # Ce qui ma plus 
 
-Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition fait une belle preuve de sensibilisation sur le sujet et de perséverance ces pour ces raisons que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique inspériances
+Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
 
-# Aspect que je ne shouaite pas retenir
+# Aspect que j'aurais fait autrement
+
+Pour cette exposition j'aurais ajouté une interaction plus immersive ce que je veux dire par cela, c'est que j'aurais ajouter par exemple une expériance en réalité virtuelle. Pour ma par ces ce que j'aurais rajouté mais en géneral j'ai extremement apprécié cette viste dans cette maginfique galerie.
 
 
 
