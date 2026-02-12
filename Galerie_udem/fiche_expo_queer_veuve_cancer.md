@@ -67,14 +67,14 @@ Comme on peut le constateur avec les photos avec cette partie du travail, on peu
 
 Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
 
-![vue_ensemble_02](https://github.com/user-attachments/assets/fe9afb26-02bd-4b61-a8c7-97e6e4cb9269)
+![vue_ensemble_02](https://github.com/user-attachments/assets/88e9a89a-97c9-4401-96fa-c7be2890d133)
 >Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Aspect que j'aurais fait autrement
 
 Pour cette exposition j'aurais ajouté une interaction plus immersive ce que je veux dire par cela, c'est que j'aurais ajouter par exemple une expériance en réalité virtuelle. Pour ma par ces ce que j'aurais rajouté mais en géneral j'ai extremement apprécié cette viste dans cette maginfique galerie.
 
-![vue_ensemble_01_](https://github.com/user-attachments/assets/bdae1286-bdb1-42dc-a7e2-b58e56299844)
+![vue_ensemble_01_](https://github.com/user-attachments/assets/c7367da5-64e7-4230-a552-1007772db2da)
 >Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 
