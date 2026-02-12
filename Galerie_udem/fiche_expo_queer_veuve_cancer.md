@@ -4,6 +4,7 @@
 
 # Lieu de mise en exposition
 ![devant_batiment02_](https://github.com/user-attachments/assets/1c483eaf-6ef6-479e-b6c7-8d5a5b694976)
+![leiDW](https://github.com/user-attachments/assets/fc2348d9-b2c2-4c6a-987b-a932a38a2800)
 >Photo prise devant le lieux d'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Type de l'exposition
@@ -46,6 +47,8 @@ Pour cette exposition, on est plus dans un contexte de scénographie qui met en 
 Pour les composantes cette oeuvres à eu besion d'un pc, d'un écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé ia pour la representations de ces personnages durant le cours metrage de son oeuvre. Aussi  pour les techniques ces une vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quuand la personne mets les écouteur.
 
 ![ordinateur_01_](https://github.com/user-attachments/assets/b74b5b72-0410-4ff2-ae60-0dec4be6ba70)
+![7R3Iw](https://github.com/user-attachments/assets/f0bc81d4-acd4-452a-ba8e-900ab8044d7d)
+![RwTDU](https://github.com/user-attachments/assets/fc087de1-4571-40e2-87f4-2abc9124359e)
 >Photo prise à l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 # Effets nécessaires à la mise en exposition
@@ -64,11 +67,15 @@ Comme on peut le constateur avec les photos avec cette partie du travail, on peu
 
 Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
 
+![vue_ensemble_02](https://github.com/user-attachments/assets/fe9afb26-02bd-4b61-a8c7-97e6e4cb9269)
+>Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
+
 # Aspect que j'aurais fait autrement
 
 Pour cette exposition j'aurais ajouté une interaction plus immersive ce que je veux dire par cela, c'est que j'aurais ajouter par exemple une expériance en réalité virtuelle. Pour ma par ces ce que j'aurais rajouté mais en géneral j'ai extremement apprécié cette viste dans cette maginfique galerie.
 
-
+![vue_ensemble_01_](https://github.com/user-attachments/assets/bdae1286-bdb1-42dc-a7e2-b58e56299844)
+>Photo prise devant l'exposition de l'udem,Montral,janvier 2026, photo Es
 
 
 
