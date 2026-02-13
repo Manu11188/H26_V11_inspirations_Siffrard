@@ -1,18 +1,18 @@
 # Galerie de l'udem
--
+
 La galerie de l'udem se situe sur le Chemin de la côte Sainte-Cathrine,Montréal,QC,H3T 1B4
 
 ![pratiques_ia_02](https://github.com/user-attachments/assets/4b815d5c-9fbe-4909-88f7-9054e546453e)
 >Affiche de l'exposition de l'udem,Montréal,janvier 2026,photo Es
 
 # Lieu de mise en exposition
--
+
 ![devant_batiment02_](https://github.com/user-attachments/assets/1c483eaf-6ef6-479e-b6c7-8d5a5b694976)
 ![porte_galerie_](https://github.com/user-attachments/assets/a37cc0ce-466a-4ba8-a44f-cf2b4f284d7c)
 >Photo prise à l'extérieur et devant le lieux d'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Type de l'exposition
--
+
 Le type d'exposition est interieur. De plus, cette exposition est temporaire pour crée un effet de rencontre entre l'oeuvre et le public. Le but de l'instalation est une situation à vivre seulement sur place.
 
 # Date de viste
