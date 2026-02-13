@@ -26,15 +26,16 @@ Le type d'exposition est interieur. De plus, cette exposition est temporaire pou
 
 **Fait le: 2025-11-28**
  
- ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
-![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
+
+![detail_oeuvres_](https://github.com/user-attachments/assets/eb9f2dd3-7d5e-4019-8bbb-d5d041839791)
 >Photo prise devant l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Description de l'oeuvre
 
 Cette oeuvre, nous explique un très bon témoigniage sur le cancer et comment l'artist(Dayna Mcleod) à du affronté la battaile contre le cancer et aussi elle aprofondit le sujet on nous parlons de son entourage.
 
-![detail_oeuvres_](https://github.com/user-attachments/assets/eb9f2dd3-7d5e-4019-8bbb-d5d041839791)
+ ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
+![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
 >Dayna Mcleod,Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Type d'instalation
