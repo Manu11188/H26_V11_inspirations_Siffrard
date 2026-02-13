@@ -74,7 +74,7 @@ Comme on peut le constater,on peut voir que dans cette exposition on utilise des
 
 # Ce qui ma plus 
 
-Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance de ses éxpérience vécus. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
+Pour cette exposition, j'ai décidé de prendre cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance de ses éxpérience vécus. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
 
 ![vue_ensemble_02](https://github.com/user-attachments/assets/88e9a89a-97c9-4401-96fa-c7be2890d133)
 >Photo d'une vue d'ensemble de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
