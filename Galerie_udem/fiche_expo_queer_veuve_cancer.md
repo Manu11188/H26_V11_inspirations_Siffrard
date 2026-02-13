@@ -1,13 +1,18 @@
 # Galerie de l'udem
+-
+La galerie de l'udem se situe sur le Chemin de la côte Sainte-Cathrine,Montréal,QC,H3T 1B4
+
 ![pratiques_ia_02](https://github.com/user-attachments/assets/4b815d5c-9fbe-4909-88f7-9054e546453e)
 >Affiche de l'exposition de l'udem,Montréal,janvier 2026,photo Es
 
 # Lieu de mise en exposition
+-
 ![devant_batiment02_](https://github.com/user-attachments/assets/1c483eaf-6ef6-479e-b6c7-8d5a5b694976)
 ![porte_galerie_](https://github.com/user-attachments/assets/a37cc0ce-466a-4ba8-a44f-cf2b4f284d7c)
 >Photo prise à l'extérieur et devant le lieux d'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Type de l'exposition
+-
 Le type d'exposition est interieur. De plus, cette exposition est temporaire pour crée un effet de rencontre entre l'oeuvre et le public. Le but de l'instalation est une situation à vivre seulement sur place.
 
 # Date de viste
@@ -27,13 +32,14 @@ Le type d'exposition est interieur. De plus, cette exposition est temporaire pou
 
 # Description de l'oeuvre
 
+Cette oeuvre, nous explique un très bon témoigniage sur le cancer et comment l'artist(Dayna Mcleod) à du affronté la battaile contre le cancer et aussi elle aprofondit le sujet on nous parlons de son entourage.
+
 ![detail_oeuvres_](https://github.com/user-attachments/assets/eb9f2dd3-7d5e-4019-8bbb-d5d041839791)
 >Dayna Mcleod,Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Type d'instalation
 
-Pour cette oeuvre, c'est une installation vidéo composé de trois petits écran et d'une grande écran disposé sur un long mur. ces écrans,dispose de casques d'écoute pour ansi avoir une belle éxpériance individuelle. Ses installations, sont contemplative avec une une immersion qui est crée par la multiplication des écrans et aussi par l'isolment sonore.
-
+Pour cette oeuvre, c'est une installation vidéo composé de trois petits écran et d'une grande écran disposé sur un long mur. ces écrans,dispose de casques d'écoute pour ansi avoir une belle éxpériance individuelle. Ses installations, sont contemplative avec une une immersion qui est crée par la multiplication des écrans et aussi par l'isolment sonore. Aussi, ici on parle d'une expérience contemplative pussique elle fait part d'un petit temoignage sur l'artist et qu'elle utilise une approche pour favoriser une exprésion personelle.
 # Fonction du dispositif
 
 Pour cette exposition, on est plus dans un contexte de scénographie qui met en valeur l'espace de l'exposition pour ansi guider le regard du spectateur avec la cohérence visuelle. Pour cette oeuvre, on ne cherche pas à étre spectaculaire mais on cherche à mettre l'accent sur le témoignage.
