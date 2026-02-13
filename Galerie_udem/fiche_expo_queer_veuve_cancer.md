@@ -32,13 +32,13 @@ Le type d'exposition est interieur. De plus, cette exposition est temporaire pou
 
 # Description de l'oeuvre
 
-Cette oeuvre, nous explique un très bon témoigniage sur le cancer et comment l'artist(Dayna Mcleod) à du affronté la battaile contre le cancer et aussi elle aprofondit le sujet on nous parlons de son entourage.
+Cette oeuvre, nous explique un très bon témoigniage sur le cancer et comment l'artist(Dayna Mcleod) à du affronté la battaile contre le cancer et aussi elle aprofondit le sujet en nous parlons de son entourage.
 
  ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
 >Dayna Mcleod,Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
-# Type d'instalation
+# Type d'instalLation
 
 Pour cette oeuvre, c'est une installation vidéo composé de trois petits écran et d'une grande écran disposé sur un long mur. ces écrans,dispose de casques d'écoute pour ansi avoir une belle éxpériance individuelle. Ses installations, sont contemplative avec une une immersion qui est crée par la multiplication des écrans et aussi par l'isolment sonore. Aussi, ici on parle d'une expérience contemplative pussique elle fait part d'un petit temoignage sur l'artist et qu'elle utilise une approche pour favoriser une exprésion personelle.
 # Fonction du dispositif
@@ -51,7 +51,7 @@ Pour cette exposition, on est plus dans un contexte de scénographie qui met en 
 >Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Composantes et techniques
-Pour les composantes cette oeuvres à eu besion d'un pc, d'un grand écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé l'ia pour la representations de ces personnages durant le cours métrage de son oeuvre. Aussi  pour les techniques ont parle ici de vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quand la personne mets les écouteur.
+Pour les composantes cette oeuvres à eu besion d'un pc, d'un grand écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé l'ia pour la representations de ces personnages durant le cours métrage de son oeuvre. Aussi  pour les techniques ont parle ici de vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quand la personne mets le casque d'écoute.
 
 ![ordinateur_01_](https://github.com/user-attachments/assets/b74b5b72-0410-4ff2-ae60-0dec4be6ba70)
 ![derriere_ecran_](https://github.com/user-attachments/assets/8200c9fd-b81e-43c7-87f7-9bdadb7fcf51)
