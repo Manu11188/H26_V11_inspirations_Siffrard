@@ -3,7 +3,7 @@
 La galerie de l'udem se situe sur le Chemin de la côte Sainte-Cathrine,Montréal,QC,H3T 1B4
 
 ![pratiques_ia_02](https://github.com/user-attachments/assets/4b815d5c-9fbe-4909-88f7-9054e546453e)
->Affiche de l'exposition de l'udem,Montréal,janvier 2026,photo Es
+> photos de l'affiche de l'exposition de la galerie de l'udem,Montréal,janvier 2026,photo Es
 
 # Lieu de mise en exposition
 
@@ -28,7 +28,7 @@ Le type d'exposition est interieur. De plus, cette exposition est temporaire pou
  
 
 ![detail_oeuvres_](https://github.com/user-attachments/assets/eb9f2dd3-7d5e-4019-8bbb-d5d041839791)
->Photo prise devant l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photo des détails de l'oeuvre de Dayna Mcleod prise devant l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Description de l'oeuvre
 
@@ -36,7 +36,7 @@ Cette oeuvre, nous explique un très bon témoigniage sur le cancer et comment l
 
  ![trois_ecran_](https://github.com/user-attachments/assets/3499d905-8dcc-4876-aa5b-67bfac33e04b)
 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
->Dayna Mcleod,Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Dayna Mcleod,Photo de trois écran et d'une vue d'ensemble prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Type d'instalLation
 
@@ -47,13 +47,13 @@ Pour cette exposition, on est plus dans un contexte de scénographie qui met en 
 
 # Mise en espace 
 
-L'image ci-dessous représente le croquis de l'oeuvre et du dispositif de l'oeuvre dans la galerie
+L'image ci-dessous représente le croquis de l'oeuvre et le dispositif de l'oeuvre dans la galerie
 
 ![croquis_oeuvre_](https://github.com/user-attachments/assets/40725991-829d-46c0-80bb-b47bcc7b0397)
 >Photo du croquis de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Composantes et techniques
-Pour les composantes cette oeuvres à eu besion d'un pc, d'un grand écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé l'ia pour la representations de ces personnages durant le cours métrage de son oeuvre. Aussi  pour les techniques ont parle ici de vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quand la personne mets le casque d'écoute.
+Pour les composantes cette oeuvres à eu besion d'un pc, d'un grand écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé l'ia pour la representations de ces personnages durant le cours métrage de son oeuvre. Aussi pour les techniques ont parle ici de vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quand la personne mets le casque d'écoute.
 
 ![ordinateur_01_](https://github.com/user-attachments/assets/b74b5b72-0410-4ff2-ae60-0dec4be6ba70)
 ![derriere_ecran_](https://github.com/user-attachments/assets/8200c9fd-b81e-43c7-87f7-9bdadb7fcf51)
@@ -74,7 +74,7 @@ Comme on peut le constater,on peut voir que dans cette exposition on utilise des
 
 # Ce qui ma plus 
 
-Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
+Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance de ses éxpérience vécus. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
 
 ![vue_ensemble_02](https://github.com/user-attachments/assets/88e9a89a-97c9-4401-96fa-c7be2890d133)
 >Photo d'une vue d'ensemble de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
