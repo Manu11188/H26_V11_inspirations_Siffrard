@@ -38,7 +38,7 @@ Cette oeuvre, nous explique un très bon témoigniage sur le cancer et comment l
 ![vue_ensemble_ecrans_](https://github.com/user-attachments/assets/3dfc4111-0056-4c3b-a96e-c01464574f5f)
 >Dayna Mcleod,Photo de trois écran et d'une vue d'ensemble prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
-# Type d'instalLation
+# Type d'installation
 
 Pour cette oeuvre, c'est une installation vidéo composé de trois petits écran et d'une grande écran disposé sur un long mur. ces écrans,dispose de casques d'écoute pour ansi avoir une belle éxpériance individuelle. Ses installations, sont contemplative avec une une immersion qui est crée par la multiplication des écrans et aussi par l'isolment sonore. Aussi, ici on parle d'une expérience contemplative pussique elle fait part d'un petit temoignage sur l'artist et qu'elle utilise une approche pour favoriser une exprésion personelle.
 # Fonction du dispositif
