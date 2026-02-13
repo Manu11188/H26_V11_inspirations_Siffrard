@@ -47,8 +47,10 @@ Pour cette exposition, on est plus dans un contexte de scénographie qui met en 
 
 # Mise en espace 
 
+L'image ci-dessous représente le croquis de l'oeuvre et du dispositif de l'oeuvre dans la galerie
+
 ![croquis_oeuvre_](https://github.com/user-attachments/assets/40725991-829d-46c0-80bb-b47bcc7b0397)
->Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photo du croquis de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Composantes et techniques
 Pour les composantes cette oeuvres à eu besion d'un pc, d'un grand écran, de plusieurs écran d'ordinateurs, un système de son, de fils et des prises de courants. Aussi, l'artiste à utilisé l'ia pour la representations de ces personnages durant le cours métrage de son oeuvre. Aussi  pour les techniques ont parle ici de vidéos numérique pré enregistré avec une diffusion en boucle en plus de l'amplification sonore individuelle quand la personne mets le casque d'écoute.
@@ -56,33 +58,33 @@ Pour les composantes cette oeuvres à eu besion d'un pc, d'un grand écran, de p
 ![ordinateur_01_](https://github.com/user-attachments/assets/b74b5b72-0410-4ff2-ae60-0dec4be6ba70)
 ![derriere_ecran_](https://github.com/user-attachments/assets/8200c9fd-b81e-43c7-87f7-9bdadb7fcf51)
 ![ecouteur_](https://github.com/user-attachments/assets/0b75bc3b-ee0a-4bc4-8d78-75478d8b9067)
->Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photos d'un ordinateur,derrière un écran et d'une paire d'écouteur prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Effets nécessaires à la mise en exposition
 
 Comme on peut le constater,on peut voir que dans cette exposition on utilise des murs blanc. Il y a aussi un grilliage au plafond pour tenir l'écran central. Pour la mise en exposition, il y a aussi une extension pour l'installation des haut-parleurs.
 
 ![mur_blanc_](https://github.com/user-attachments/assets/0c21fd50-83b4-41b0-b4eb-3bcec42d9cc9)
->Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photo d'un mur blanc prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Experiance vécue
 
 ![vue_ensemble_03](https://github.com/user-attachments/assets/3f5e104d-2131-4b67-ba86-80fccfcdf9c4)
->Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photo d'une vue d'ensemble de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Ce qui ma plus 
 
 Pour cette exposition, j'ai chosi cette oeuvre puisque j'ai bien aimé son histoire. Cette exposition,fait une belle preuve de sensibilisation sur le témoignage et aussi de perséverance. Ces pour ces raisons, que cette hisoitre me tient à coeur et que j'ai chosi de faire mon travail pratique sur cette magnifique oeuvre.
 
 ![vue_ensemble_02](https://github.com/user-attachments/assets/88e9a89a-97c9-4401-96fa-c7be2890d133)
->Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photo d'une vue d'ensemble de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 # Aspect que j'aurais fait autrement
 
 Pour cette exposition, j'aurais ajouté une interaction plus immersive ce que je veux dire par cela, c'est que j'aurais ajouter par exemple une expériance en réalité virtuelle. Pour ma par, ces ce que j'aurais rajouté mais en géneral j'ai extremement apprécié cette viste dans cette maginfique galerie.
 
 ![vue_ensemble_01_](https://github.com/user-attachments/assets/c7367da5-64e7-4230-a552-1007772db2da)
->Photo prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
+>Photo d'une vue d'ensemble de l'oeuvre prise à l'exposition de l'udem,Montréal,janvier 2026, photo Es
 
 
 
