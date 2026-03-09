@@ -21,9 +21,11 @@ Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois tem
 
 # Titre de l'oeuvre
 
-**knockin'pictures off the wall (faire tomber les images du mur)
+**knockin'pictures off the wall (faire tomber les images du mur)**
 
-**par:Jeremy Toussaint-Baptiste
+**par:Jeremy Toussaint-Baptiste**
+
+**Fait en: 2020**
 
 <img width="525" height="700" alt="information_oeuvre_" src="https://github.com/user-attachments/assets/440b819a-8af4-4022-a2cf-6c0b9ea29b32" />
 
@@ -34,5 +36,5 @@ Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois tem
 L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installation sonore multimédia. Ce système à été bricolé avec une plaque métalique émis de transducteurs. les vibrations des mûres renversent la logique des infrabasses et du son. 
 
 # Type d'instalation
-**Fait le: 2020
+
 
