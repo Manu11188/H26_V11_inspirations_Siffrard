@@ -11,3 +11,28 @@ La galerie d'art dazibo se situe au 5455 avenue de gaspé espace 109,Montréal,Q
 <img width="525" height="700" alt="porte_galerie_" src="https://github.com/user-attachments/assets/e5786234-d406-408c-91b5-fa47554ce626" />
 
 > photos de l'affiche de l'exposition dazibo,Montréal,février 2026,photo Es
+
+# Type d'exposition
+
+Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois temporaire. Elle est intéreiur puissque elle est présenté à l'interieur d'un bâtiment. Cette oeuvre est aussi temporaire puissque géneralement les expositions multimédia ne sont placé dans les galerie d'art d'une facon permanante. D'ailleurs cette expostion est du 5 février 2026 jusqu'au 4 avril 2026.
+
+# Date de visite
+2026-02-20
+
+# Titre de l'oeuvre
+
+**knockin'pictures off the wall (faire tomber les images du mur)
+
+**par:Jeremy Toussaint-Baptiste
+
+<img width="525" height="700" alt="information_oeuvre_" src="https://github.com/user-attachments/assets/440b819a-8af4-4022-a2cf-6c0b9ea29b32" />
+
+> photos des détails de l'oeuvre de Jeremy Toussaint-Baptiste dazibo,Montréal,février 2026,photo Es
+
+# Description de l'oeuvre
+
+L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installation sonore multimédia. Ce système à été bricolé avec une plaque métalique émis de transducteurs. les vibrations des mûres renversent la logique des infrabasses et du son. 
+
+# Type d'instalation
+**Fait le: 2020
+
