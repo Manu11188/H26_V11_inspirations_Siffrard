@@ -35,8 +35,9 @@ Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois tem
 
 L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installation sonore multimédia. Ce système à été bricolé avec une plaque métalique émis de transducteurs. les vibrations des mûres renversent la logique des infrabasses et du son. 
 
-![coin_lecture_](https://github.com/user-attachments/assets/80c59895-eba6-4145-8b46-773a95a80509)
+<img width="525" height="700" alt="coin_lecture_" src="https://github.com/user-attachments/assets/0451f74f-15cf-4e6f-bdea-28fdd7fd4783" />
 
+> photos du coin lecture de la galerie dazibo,Montréal,février 2026,photo Es
 
 # Type d'instalation
 
