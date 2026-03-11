@@ -47,15 +47,20 @@ Le type d'instalation de cette oeuvre est immersive puissque les basses fréquen
 
 > photos de l'ensemble de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
 
-
 # Fonction du dispositif
 
 Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est liées avec la base des fréquances. l'iphone,les transducteurs,la plaque métalique et l'amplificateur ont pour but de nous montrer l'effet de vibration et de sensibilité dans l'espace. Ces pour cela, que la mise en valeur est la fonction de l'oeuvre de Jeremy Toussaint-Baptiste.
 
-# Mise en espaces
+# Mise en espace
 
 ![croquis_oeuvre_tp2](https://github.com/user-attachments/assets/bddd1f3f-d032-4867-9e44-04227d79b7d5)
 
+# Composantes et techniques
+
+Pour les composantes ont retrouve dans l'oeuvre un iphone qui est la source du son il y a un amplificateur,des haut-parleurs de basses,des plaques metaliques,un  entilateur avec servomteur,tuyeaux flexible d'evacuations et des cables d'alimentation avedc des prise de courants. Ces composantes on permis la création d'une experiances tres riche et intéressante. Pour la paties un peu plus techniques un trouve un système audio diy qui a été bricolé en plus de l'insatalation sonores et multimédia qu'on retrouve fixé sur le mur.
+
+<img width="525" height="700" alt="haut_parleur_" src="https://github.com/user-attachments/assets/7d473024-7af2-4dab-be80-e115def7e15f" />
+<img width="525" height="700" alt="dispositif_plafond_" src="https://github.com/user-attachments/assets/b9a631eb-f5c0-4db7-a0e5-896cfd60fdbe" />
 
 > photos du croquis de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
 
