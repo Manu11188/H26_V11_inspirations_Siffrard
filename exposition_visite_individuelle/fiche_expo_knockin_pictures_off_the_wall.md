@@ -35,7 +35,7 @@ Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois tem
 
 L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installation sonore multimédia. Ce système à été bricolé avec une plaque métalique émis de transducteurs. les vibrations des mûres renversent la logique des infrabasses et du son. 
 
-![coin_lecture_](https://github.com/user-attachments/assets/12173fa6-dc05-497f-8937-971e23b2fdf7)
+![coin_lecture_](https://github.com/user-attachments/assets/80c59895-eba6-4145-8b46-773a95a80509)
 
 
 # Type d'instalation
