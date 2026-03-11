@@ -14,7 +14,7 @@ La galerie d'art dazibo se situe au 5455 avenue de gaspé espace 109,Montréal,Q
 
 # Type d'exposition
 
-Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois temporaire. Elle est intéreiur puissque elle est présenté à l'interieur d'un bâtiment. Cette oeuvre est aussi temporaire puissque géneralement les expositions multimédia ne sont placé dans les galerie d'art d'une facon permanante. D'ailleurs cette expostion est du 5 février 2026 jusqu'au 4 avril 2026.
+Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois temporaire. Elle est intéreiure puissque elle est présenté à l'interieur d'un bâtiment. Cette oeuvre est aussi temporaire puissque géneralement les expositions multimédia ne sont placé dans les galerie d'art d'une facon permanante. D'ailleurs cette expostion est du 5 février 2026 jusqu'au 4 avril 2026.
 
 # Date de visite
 2026-02-20
