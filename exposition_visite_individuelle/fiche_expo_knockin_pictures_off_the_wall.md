@@ -50,5 +50,9 @@ Le type d'instalation de cette oeuvre est immersive puissque les basses fréquen
 
 # Fonction du dispositif
 
-Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est liées avec la base des fréquances. l'iphone,les transducteurs,la plaque métalique et l'amplificateur ont pour but de nous montrer l'effet de vibration et de sensibilité dans l'espace. Ces pour cela, que la mise en valeur est la fonction de l'oeuvre de Jeremy Toussaint-Baptiste
+Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est liées avec la base des fréquances. l'iphone,les transducteurs,la plaque métalique et l'amplificateur ont pour but de nous montrer l'effet de vibration et de sensibilité dans l'espace. Ces pour cela, que la mise en valeur est la fonction de l'oeuvre de Jeremy Toussaint-Baptiste.
+
+# Mise en espaces
+
+
 
