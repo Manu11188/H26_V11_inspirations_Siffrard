@@ -54,6 +54,7 @@ Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est 
 # Mise en espace
 
 ![croquis_oeuvre_tp2](https://github.com/user-attachments/assets/bddd1f3f-d032-4867-9e44-04227d79b7d5)
+> photos du croquis de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
 
 # Composantes et techniques
 
