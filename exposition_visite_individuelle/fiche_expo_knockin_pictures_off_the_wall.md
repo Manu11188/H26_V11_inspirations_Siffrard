@@ -59,8 +59,7 @@ Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est 
 
 Pour les composantes ont retrouve dans l'oeuvre un iphone qui est la source du son il y a un amplificateur,des haut-parleurs de basses,des plaques metaliques,un  entilateur avec servomteur,tuyeaux flexible d'evacuations et des cables d'alimentation avedc des prise de courants. Ces composantes on permis la création d'une experiances tres riche et intéressante. Pour la paties un peu plus techniques un trouve un système audio diy qui a été bricolé en plus de l'insatalation sonores et multimédia qu'on retrouve fixé sur le mur.
 
-<img width="525" height="700" alt="haut_parleur_" src="https://github.com/user-attachments/assets/7d473024-7af2-4dab-be80-e115def7e15f" /> <img width="525" height="700" alt="tube_dispositif_" src="https://github.com/user-attachments/assets/bbc850d5-02cf-4aac-ba3b-2a0c0c5c3a2e" />
-
+<img width="525" height="700" alt="haut_parleur_" src="https://github.com/user-attachments/assets/7d473024-7af2-4dab-be80-e115def7e15f" /> 
 <img width="525" height="700" alt="dispositif_plafond_" src="https://github.com/user-attachments/assets/b9a631eb-f5c0-4db7-a0e5-896cfd60fdbe" />
 
 > photos du croquis de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
