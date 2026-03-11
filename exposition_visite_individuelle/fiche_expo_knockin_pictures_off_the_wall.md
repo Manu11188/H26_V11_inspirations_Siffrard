@@ -63,5 +63,5 @@ Pour les composantes ont retrouve dans l'oeuvre un iphone qui est la source du s
 <img width="525" height="700" alt="haut_parleur_" src="https://github.com/user-attachments/assets/7d473024-7af2-4dab-be80-e115def7e15f" /> 
 <img width="525" height="700" alt="dispositif_plafond_" src="https://github.com/user-attachments/assets/b9a631eb-f5c0-4db7-a0e5-896cfd60fdbe" />
 
-> photos du croquis de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
+> photos de quelques composantes de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
 
