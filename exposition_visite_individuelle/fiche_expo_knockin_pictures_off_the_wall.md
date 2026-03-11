@@ -38,3 +38,12 @@ L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installati
 # Type d'instalation
 
 Le type d'instalation de cette oeuvre est immersive puissque les basses fréquences sont la sources de vibration des mûres. Lors de ma visite, j'ai ressenti l'experiances les vibrations ont meme bouché l'une de mes oreilles. Aussi, l'oeuvre crée une experiance de type sensorielle donc le spectateur na pas juste a regarder il peut aussi entendre l'oeuvre.
+
+# Fonction du dispositif
+
+Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est liées avec la base des fréquances. l'iphone,les transducteurs,la plaque métalique et l'amplificateur ont pour but de nous montrer l'effet de vibration et de sensibilité dans l'espace. Ces pour cela, que la mise en valeur est la fonction de l'oeuvre de Jeremy Toussaint-Baptiste
+
+
+
+
+
