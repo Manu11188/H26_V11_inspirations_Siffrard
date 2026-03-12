@@ -93,6 +93,10 @@ Pour cette oeuvre,j'aurais simplement ajouter un éléments visuel comme une vid
 
 
 
+https://github.com/user-attachments/assets/85f84742-cb52-40af-9c5d-ff5cefed7938
+
+
+
 
 
 
