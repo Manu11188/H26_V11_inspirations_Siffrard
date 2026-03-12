@@ -92,3 +92,9 @@ Ce qui ma plus dans cette oeuvre est l'originalité de l'oeuvre puissque elle re
 Pour cette oeuvre,j'aurais simplement ajouter un éléments visuel comme une vidéo ou on vois le bruit des autouroutes proche d'une banlieu, pour acompagner la vibration et le sons que l'oeuvre nous offre deja. Je pense fortement que cette ajout aurais rendu cette expérience très immersive.
 
 
+
+
+
+
+
+
