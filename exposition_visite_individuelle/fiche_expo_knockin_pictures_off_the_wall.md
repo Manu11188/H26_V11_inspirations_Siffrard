@@ -33,7 +33,7 @@ Pour cette oeuvre,le type d'exposition est interieure et elle est à la fois tem
 
 # Description de l'oeuvre
 
-L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installation sonore multimédia. Ce système à été bricolé avec une plaque métalique émis de transducteurs. les vibrations des mûres renversent la logique des infrabasses et du son. 
+L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installation sonore multimédia. Ce système à été bricolé avec une plaque métalique émis de transducteurs. les vibrations des mûres renversent la logique des infrabasses et du son. L'artist à aussi faire cette oeuvre pour nous faire comprendre une éxperience urbaine qui touches particulièrement les banlieus.
 
 <img width="525" height="700" alt="coin_lecture_" src="https://github.com/user-attachments/assets/0451f74f-15cf-4e6f-bdea-28fdd7fd4783" />
 
@@ -63,5 +63,12 @@ Pour les composantes qu'on retrouve dans l'oeuvre on peut remarqué qi'il y a un
 <img width="525" height="700" alt="haut_parleur_" src="https://github.com/user-attachments/assets/7d473024-7af2-4dab-be80-e115def7e15f" /> 
 <img width="525" height="700" alt="dispositif_plafond_" src="https://github.com/user-attachments/assets/b9a631eb-f5c0-4db7-a0e5-896cfd60fdbe" />
 
-> photos de quelques composantes de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
+# Effets nécessaires à la mise en exposition
+
+Pour cette oeuvre, l'artiste a voulu faire ressortir son oeuvre grace a une technique très simple sois le choix de mettre des murs blanc pour ansi avoir un excellent contraste.
+
+<img width="525" height="700" alt="mur_blanc" src="https://github.com/user-attachments/assets/0157dcdc-7709-4e11-91e2-9ebbd26f8fae" />
+
+> photos d'un mur blanc de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
+
 
