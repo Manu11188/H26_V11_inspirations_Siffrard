@@ -81,6 +81,12 @@ Lors de mon entrée dans le batiment de cette galerie, ont peut voir qu'il a une
 
 # Ce qui ma plus
 
+Ce qui ma plus dans cette oeuvre est l'originalité de l'oeuvre puissque elle reste simple. l'artiste utilise des objets technologiques simple par exemple il a utilisé un iphone ce qui est très original. Aussi avec ces aspects cela fesait très différent d'une oeuvre un peu plus traditionelle, au lieu d'être juste regardée les vibrations le son amène une visibilité compltement différente de l'experience.
+
+<img width="525" height="700" alt="acceuil_galerie_" src="https://github.com/user-attachments/assets/14713421-c40c-4d5f-bf7d-1d4ccf1b0872" />
+
+> photos de l'acceuil de la galerie dazibo,Montréal,février 2026,photo Es
+
 
 
 
