@@ -77,6 +77,8 @@ Lors de mon entrée dans le batiment de cette galerie, ont peut voir qu'il a une
 
 <img width="525" height="700" alt="chemin_vers_l&#39;exposition_" src="https://github.com/user-attachments/assets/83c9705a-44b1-4c9b-8e7f-1bb96a8527fc" />
 
+> photos du chemin a prendre pour la galerie dazibo,Montréal,février 2026,photo Es
+
 # Ce qui ma plus
 
 
