@@ -71,4 +71,14 @@ Pour cette oeuvre, l'artiste a voulu faire ressortir son oeuvre grace a une tech
 
 > photos d'un mur blanc de l'oeuvre de Jeremy Toussaint-Baptiste,Montréal,février 2026,photo Es
 
+# Experiance vécue
+
+Lors de mon entrée dans le batiment de cette galerie, ont peut voir qu'il a une ambiance chaleureuse avec aussi beaucoup de chemin qu'on peut prendre. Lors de mon entrée dans la galerie ont ce fait bien accueillir. Ensuite, on peut se prommener et voir les oeuvres qui sont disponibles en comptant l'oeuvre que je vous documente il y en a six au total dans cette magnifique galerie d'art.
+
+<img width="525" height="700" alt="chemin_vers_l&#39;exposition_" src="https://github.com/user-attachments/assets/83c9705a-44b1-4c9b-8e7f-1bb96a8527fc" />
+
+# Ce qui ma plus
+
+
+
 
