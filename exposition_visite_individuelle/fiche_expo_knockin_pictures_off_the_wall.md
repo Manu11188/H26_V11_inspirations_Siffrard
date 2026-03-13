@@ -58,7 +58,7 @@ Cette oeuvre, à la fonction de mise en valeur puisque toute la technologie est 
 
 # Composantes et techniques
 
-Pour les composantes qu'on retrouve dans l'oeuvre on peut remarqué qu'il y a un iphone qui est la source du son. Aussi, un amplificateur,des haut-parleurs de basses,des plaques metaliques,un entilateur avec servomoteur,un tuyeaux flexible d'évacuation et des cables d'alimentation avec des prises de courant. Ces composantes ont permis la création d'une experiance très riche et intéressante. Pour la partie un peu plus techniques on trouve un système audio diy qui a été bricolé en plus de l'insatallation sonore et multimédia qu'on retrouve fixé sur le mur.
+Pour les composantes qu'on retrouve dans l'oeuvre on peut remarqué qu'il y a un iphone qui est la source du son. Aussi, un amplificateur,des haut-parleurs de basses,des plaques metaliques,un entilateur avec servomoteur,un tuyeaux flexible d'évacuation et des cables d'alimentation avec des prises de courant. Ces composantes ont permis la création d'une experience très riche et intéressante. Pour la partie un peu plus technique on trouve un système audio diy qui a été bricolé en plus de l'insatallation sonore et multimédia qu'on retrouve fixé sur le mur.
 
 <img width="525" height="700" alt="haut_parleur_" src="https://github.com/user-attachments/assets/7d473024-7af2-4dab-be80-e115def7e15f" /> 
 <img width="525" height="700" alt="dispositif_plafond_" src="https://github.com/user-attachments/assets/b9a631eb-f5c0-4db7-a0e5-896cfd60fdbe" />
