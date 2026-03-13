@@ -101,6 +101,7 @@ https://github.com/user-attachments/assets/85f84742-cb52-40af-9c5d-ff5cefed7938
 https://dazibao.art/exposition-the-art-gallery-problem
 
 lien google maps pour la galerie d'art dazibo
+-
 
 https://www.google.com/maps/dir//DAZIBAO,+5455+avenue+de+Gaspé+espace+109,+Montréal,+QC+H2T+3B3/@45.5275387,-73.5990049,17z/data=!3m1!5s0x4cc91a2a844c1605:0xa4015855f0dcea42!4m16!1m7!3m6!1s0x4cc91a4cd92bbe23:0x597068c5436eaa0f!2sDAZIBAO!8m2!3d45.527535!4d-73.59643!16s%2Fg%2F1tgtf36b!4m7!1m0!1m5!1m1!1s0x4cc91a4cd92bbe23:0x597068c5436eaa0f!2m2!1d-73.59643!2d45.527535?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D
 
