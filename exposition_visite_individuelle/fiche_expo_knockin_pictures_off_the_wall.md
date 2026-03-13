@@ -89,7 +89,7 @@ Ce qui ma plus dans cette oeuvre est l'originalité de l'oeuvre puissque elle re
 
 # Aspects que j'aurais fait autrement
 
-Pour cette oeuvre,j'aurais simplement ajouter un éléments visuel comme une vidéo ou on vois des autouroutes proche d'une banlieu qui vibrent grace à des effets de montage, pour acompagner la vibration et le sons que l'oeuvre nous offre deja. Je pense fortement que cette ajout aurais rendu cette expérience encore plus immersive.
+Pour cette oeuvre,j'aurais simplement ajouter un élément visuel comme une vidéo ou on vois des autouroutes proche d'une banlieu qui vibrent grace à des effets de montage, pour acompagner la vibration et le sons que l'oeuvre nous offre deja. Je pense fortement que cette ajout aurais rendu cette expérience encore plus immersive.
 
 
 
