@@ -2,6 +2,8 @@
 
 La galerie d'art dazibo se situe au 5455 avenue de gaspé espace 109,Montréal,QC,H2T 3B3
 
+https://www.google.com/maps/dir//DAZIBAO,+5455+avenue+de+Gaspé+espace+109,+Montréal,+QC+H2T+3B3/@45.5275387,-73.5990049,17z/data=!3m1!5s0x4cc91a2a844c1605:0xa4015855f0dcea42!4m16!1m7!3m6!1s0x4cc91a4cd92bbe23:0x597068c5436eaa0f!2sDAZIBAO!8m2!3d45.527535!4d-73.59643!16s%2Fg%2F1tgtf36b!4m7!1m0!1m5!1m1!1s0x4cc91a4cd92bbe23:0x597068c5436eaa0f!2m2!1d-73.59643!2d45.527535?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D
+
 <img width="525" height="700" alt="oeuvre_presentation_" src="https://github.com/user-attachments/assets/71ad6409-08a2-415a-837a-2cc5de610c82" />
 
 > photo de l'affiche de l'exposition dazibo,Montréal,février 2026,photo Es
