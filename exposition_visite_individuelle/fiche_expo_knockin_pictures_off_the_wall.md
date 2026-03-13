@@ -41,7 +41,7 @@ L'oeuvre de Jeremy Toussaint-Baptiste à pour but de nous montrer son installati
 
 # Type d'instalation
 
-Le type d'instalation de cette oeuvre est immersive puissque les basses fréquences sont la sources de vibration des murs. Lors de ma visite, j'ai ressenti l'experiance des vibrations qui ont même bouché une de mes oreilles. Aussi, l'oeuvre crée une experiance de type sensorielle donc le spectateur na pas juste a rester immobile et regarder il peut aussi entendre et vivre les sensations de l'oeuvre.
+Le type d'instalation de cette oeuvre est immersive puissque les basses fréquences sont la sources de vibration des murs. Lors de ma visite, j'ai ressenti l'experience des vibrations qui ont même bouché une de mes oreilles. Aussi, l'oeuvre crée une experiance de type sensorielle donc le spectateur na pas juste a rester immobile et regarder il peut aussi entendre et vivre les sensations de l'oeuvre.
 
 <img width="525" height="700" alt="vue_d&#39;ensemble_" src="https://github.com/user-attachments/assets/d33a5cee-49f3-43d4-b651-274b2eacc1fd" />
 
