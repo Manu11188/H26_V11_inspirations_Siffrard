@@ -1,1 +1,1 @@
-# Ordre de préférences oeuvres exposition tim
+# Ordre de préférences des oeuvres de l'exposition tim
