@@ -13,7 +13,7 @@ Voici les créatrices de cette oeuvre: Amira Tounekti et Kristy Moussally
 # Installation en cours
 
 
-# Schéma de l'installtion prévue
+# Schéma de l'installation prévue
 
 
 # Mon expérience au sujet de l'oeuvre
