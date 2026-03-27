@@ -122,6 +122,8 @@ Pour mon expérianceau sujet de l'oeuvre, bien que cette oeuvre sois la dernièr
 
 Pour crée un dispostif multimédia/oeuvre selon moi les trois cours les plus important sont: Audio je touve que les deux cours d'audio sont important pour crée un dispostif pussique si le dispositif à besoin de son nous devons être en mesure d'utilisé des logicels de son pour ansi créé ou bien importé nos son pour ensuite le placé dans notre oeuvres ou dispositif. Ensuite, le cours de réalité mixte est selon moi primordiale pour la création d'une oeuvre puissque dans le cadre de ce cours nous sommes mener a nous familiariser avec les outil de la réalites mixte donc le xr,réalité virtuelle,réalité augmenté et meme aussi le 3d. Pour le troisième cours qui perment la création d'un dispositif/oeuvre selon moi ces le cours d'installation multimédia selon moi ce cours est d'une grande importance puissque ils nous permet la réalisation d'une projection vidéo à l'aide d'un projecteur sur une grande espace.
 
+liens des cours que j'ai cité: https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
+
 # Technique/composante technologique que je ne connaisait pas
 
 
