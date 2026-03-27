@@ -13,6 +13,8 @@ Voici les créatrices de cette oeuvre: Amira Tounekti et Kristy Moussally
 # Installation en cours
 
 
+
+
 # Schéma de l'installation prévue
 
 <img width="400" height="391" alt="synoptique drawio" src="https://github.com/user-attachments/assets/226f5604-5fa4-4c31-bab1-3372308cace5" />
@@ -32,12 +34,17 @@ Voici les créateurs/créatrices de cette oeuvre:
 
 # Installation en cours
 
+![ensemble_oeuvre_quand_les_yeux_](https://github.com/user-attachments/assets/f9b701d3-049f-4981-9029-331822308e10)
+
+>photo de l'ensemble de l'oeuvre,exposition tim,Laval,photo es
 
 # Schéma de l'installtion prévue
 
 ![plan_plantation_03](https://github.com/user-attachments/assets/354d8746-c8c4-4858-af0b-d4829c1620e9)
 
 >photo du schéma d'Installation l'exposition tim,Laval,photo de l'équipe quand les yeux
+
+Lien de la photo: https://emersiaa.github.io/Quand-les-yeux-se-croisent/technique/plan_plantation_03.jpeg
 
 # Mon expérience au sujet de l'oeuvre
 
