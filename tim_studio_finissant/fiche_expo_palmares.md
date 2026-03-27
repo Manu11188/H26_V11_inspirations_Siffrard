@@ -45,4 +45,24 @@ Pour l'oeuvre du nom quand les yeux, lors de mon entrée pour la première expé
 
 # Symboise
 
-Voici les créateurs dde cette oeuvre:
+Voici les créateurs dde cette oeuvre: Yannick Chamberland,Benjamin Ferland,Ryan Dufault et Walid Cheour
+
+
+# Installation en cours
+
+![ensemble_oeuvre_symboise_](https://github.com/user-attachments/assets/80f8b98b-7d2d-4929-aadb-934d32646569)
+
+>photo de l'ensemble du dispositif de l'oeuvre,exposition tim,Laval,photo es
+
+
+# Schéma de l'installtion prévue
+
+![2d_plan](https://github.com/user-attachments/assets/1d110c14-1b48-4e09-a1f1-c2d375a2d3d0)
+
+>photo de l'ensemble du dispositif de l'oeuvre,exposition tim,Laval,photo de l'équipe symboise
+
+# Mon expérience au sujet de l'oeuvre
+
+Pour le dispositif multimédia symboise, je trouve que le concept du jeu d'équipe est très bien pensé. Lors de ma première visite j'ai testé le jeu avec mes amis et au niveaux des règles c'était accessible à tous le niveau de diffculté était bien en point avec le jeu l'équipe symboise nous a bien expliquer le fonctionement du jeu. J'ai bien aimé le contraste du jeu je trouve que les couleurs nous mets bien dans le theme a la fois d'une cuisine et à la fois un peu d'un laboratoire scientifique. Le seul changment que j'ai remarqé lors de ma deuzième visite ces que maintenant on doit être debout pour jouer je trouve ce changement très interrésant le fait d'être debout je trouve que ca nous pousse à étre plus réactif au jeu et j'ai bien aimé ce changement.
+
+# Mission
