@@ -17,7 +17,7 @@ Voici les créatrices de cette oeuvre: Amira Tounekti et Kristy Moussally
 
 <img width="400" height="391" alt="synoptique drawio" src="https://github.com/user-attachments/assets/226f5604-5fa4-4c31-bab1-3372308cace5" />
 
->photos du schéma d'Installation l'exposition tim,Laval,photos de l'équipe océan rouge
+>photo du schéma d'Installation l'exposition tim,Laval,photo de l'équipe océan rouge
 
 lien de la photo: https://deux-intelligence.github.io/deux-neurones/technique/synoptique.drawio.png
 
@@ -37,7 +37,7 @@ Voici les créateurs/créatrices de cette oeuvre:
 
 ![plan_plantation_03](https://github.com/user-attachments/assets/354d8746-c8c4-4858-af0b-d4829c1620e9)
 
->
+>photo du schéma d'Installation l'exposition tim,Laval,photo de l'équipe quand les yeux
 
 # Mon expérience au sujet de l'oeuvre
 
