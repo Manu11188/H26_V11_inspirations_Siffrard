@@ -94,4 +94,28 @@ lien de la photo: https://o-i-g-n-o-n.github.io/Mission-decollage/medias/images/
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de control pour jouer au jeu etait aussi un peu difficile à comprendre mais après les exlication cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu enconre une fois, je trouve que le concept de jeu équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel je trouve que cette ajout est d'une grande importance pour accesibilté du jeu.
+Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de controle pour jouer au jeu etait aussi un peu difficile à comprendre mais après les exlication cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu enconre une fois, je trouve que le concept de jeu équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel je trouve que cette ajout est d'une grande importance pour accesibilté du jeu.
+
+# Arbre en face
+
+Voici les créateurs de cette oeuvre: Alexandre gendron,Mikael Arsenault,Mathieu Willett,Matis Ghariani et Rafael Angeon Dube
+
+# Installation en cours
+
+![ecran_oeuvre_arbre_en_face_](https://github.com/user-attachments/assets/5e95452e-28de-4458-97ac-64edf4907c5e)
+
+>photo de l'écran du dispositif de l'oeuvre,exposition tim,Laval,photo es
+
+# Schéma de l'installtion prévue
+
+![516579586-a38288bd-df49-4a2c-a91d-1658fbaf32a2](https://github.com/user-attachments/assets/caff7b02-9bf4-46d4-b379-3d94d05a607e)
+
+>photo de l'ensemble du dispositif de l'oeuvre,exposition tim,Laval,photo de l'équipe arbre en face
+
+# Mon expérience au sujet de l'oeuvre
+
+Pour mon expérianceau sujet de l'oeuvre, bien que cette oeuvre sois la dernière de ma liste cela est a cette position seulement par interets. Sinon j'ai trouvé que au niveaux de l'oeuvre il n`y a pas eu de changements entre ma première et ma deuzième visite. Selon moi l'interacitivté de cette expreiance est très bien reussi j'ai bien aimé le fait que l'on peut voit nos face et avec l'interaction on peut faire des plantes. Au niveaux du contraste j'ai bien aimé les couleurs rentre extemement bien dans le thèmes de la nature. Au niveau de l'acessibilié je trouve que leur concept est simple et efficace à comprendre en plus de leur explication ces une belle experiance a essayer.
+
+
+
+
