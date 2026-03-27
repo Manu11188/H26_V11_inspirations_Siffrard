@@ -112,6 +112,8 @@ Voici les créateurs de cette oeuvre: Alexandre gendron,Mikael Arsenault,Mathieu
 
 >photo de l'ensemble du dispositif de l'oeuvre,exposition tim,Laval,photo de l'équipe arbre en face
 
+lien de la photo: https://github.com/user-attachments/assets/a38288bd-df49-4a2c-a91d-1658fbaf32a2
+
 # Mon expérience au sujet de l'oeuvre
 
 Pour mon expérianceau sujet de l'oeuvre, bien que cette oeuvre sois la dernière de ma liste cela est a cette position seulement par interets. Sinon j'ai trouvé que au niveaux de l'oeuvre il n`y a pas eu de changements entre ma première et ma deuzième visite. Selon moi l'interacitivté de cette expreiance est très bien reussi j'ai bien aimé le fait que l'on peut voit nos face et avec l'interaction on peut faire des plantes. Au niveaux du contraste j'ai bien aimé les couleurs rentre extemement bien dans le thèmes de la nature. Au niveau de l'acessibilié je trouve que leur concept est simple et efficace à comprendre en plus de leur explication ces une belle experiance a essayer.
