@@ -75,3 +75,23 @@ lien de la photo: https://les-chimistes.github.io/symbiose/technique/2d_plan.web
 Pour le dispositif multimédia symboise, je trouve que le concept du jeu d'équipe est très bien pensé. Lors de ma première visite j'ai testé le jeu avec mes amis et au niveaux des règles c'était accessible à tous le niveau de diffculté était bien en point avec le jeu l'équipe symboise nous a bien expliquer le fonctionement du jeu. J'ai bien aimé le contraste du jeu je trouve que les couleurs nous mets bien dans le theme a la fois d'une cuisine et à la fois un peu d'un laboratoire scientifique. Le seul changment que j'ai remarqé lors de ma deuzième visite ces que maintenant on doit être debout pour jouer je trouve ce changement très interrésant le fait d'être debout je trouve que ca nous pousse à étre plus réactif au jeu et j'ai bien aimé ce changement.
 
 # Mission
+
+Voici les créateurs dde cette oeuvre: Ahmed Kassoumi,Radhouane Kordon,Justin Monpetit,Thearylou Lach et Jad saloumi
+
+# Installation en cours
+
+![ecran_oeuvre_mission_](https://github.com/user-attachments/assets/2038a75a-455c-4903-988e-4b010b1d0ca2)
+
+>photo de l'écran du dispositif de l'oeuvre,exposition tim,Laval,photo es
+
+# Schéma de l'installtion prévue
+
+<img width="300" height="236" alt="implantation" src="https://github.com/user-attachments/assets/665c12f0-a345-48a5-9f0e-4935df16e009" />
+
+>photo de l'ensemble du dispositif de l'oeuvre,exposition tim,Laval,photo de l'équipe mission
+
+lien de la photo: https://o-i-g-n-o-n.github.io/Mission-decollage/medias/images/implantation.png
+
+# Mon expérience au sujet de l'oeuvre
+
+Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de control pour jouer au jeu etait aussi un peu difficile à comprendre mais après les exlication cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu enconre une fois, je trouve que le concept de jeu équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel je trouve que cette ajout est d'une grande importance pour accesibilté du jeu.
