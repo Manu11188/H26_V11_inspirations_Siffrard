@@ -30,6 +30,9 @@ Voici les créateurs/créatrices de cette oeuvre:
 
 # Schéma de l'installtion prévue
 
+![plan_plantation_03](https://github.com/user-attachments/assets/354d8746-c8c4-4858-af0b-d4829c1620e9)
+
+>
 
 # Mon expérience au sujet de l'oeuvre
 
