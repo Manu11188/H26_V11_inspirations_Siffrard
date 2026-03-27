@@ -16,7 +16,7 @@ Voici les créatrices de cette oeuvre: Amira Tounekti et Kristy Moussally
 # Schéma de l'installation prévue
 
 <img width="400" height="391" alt="synoptique drawio" src="https://github.com/user-attachments/assets/226f5604-5fa4-4c31-bab1-3372308cace5" />
-
+>photos du schéma d'Installation
 # Mon expérience au sujet de l'oeuvre
 
 Pour cette oeuvre, avant de faire l'éperience je trouvais que l'oeuvre etait asser simple et facile à jouer. Lors de ma première visite, je trouvais que les niveaux était asser simple on gagnait la partie sans aucun effort. Pour ce point lors de ma deuzième visite les niveaux ont changer un peut et la difficulté aussi. J'ai beaucoup aimé comment le jeu à été monter le fait qu'on doit rétiré des déchets de l'océan donc un pas pour améliorer l'environement elle ont voulu faire un message de sensibilisation pour l'environement et je trouve que cela à été reussi. Aux niveaux du control utilisateur je trouve que ces simple est cela est plus une force que un default le fait que le control utilisateur est simple à comprendre il est donc acessible pour tout le monde.
