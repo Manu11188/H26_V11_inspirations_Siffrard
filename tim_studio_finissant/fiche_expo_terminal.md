@@ -33,5 +33,7 @@ https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/tim_studio_
 
 # Description du dispositif
 
+Le dispositif terminal est un jeu ou on controle un personage ont peut jouer au jeux seul et aussi avk des amis le maximum de joeur est de 5.
+
 
  
