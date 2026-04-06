@@ -14,7 +14,7 @@ Voici les créatrices de cette oeuvre: Amira Tounekti et Kristy Moussally
 
 ![dispositif_ocean_rouge_](https://github.com/user-attachments/assets/b99133b8-cfb2-4cd9-a50f-55e80227037e)
 
-
+>photo du dispositif d'Installation l'exposition tim,Laval,photo de l'équipe océan rouge
 
 
 # Schéma de l'installation prévue
