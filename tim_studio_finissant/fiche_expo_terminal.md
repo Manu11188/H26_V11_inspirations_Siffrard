@@ -6,4 +6,4 @@ https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/tim_studio_
 
 > photo de l'affiche de l'exposition TIM,Laval,Mars 2026,photo Es
 
-
+# Lieu de mise en exposition
