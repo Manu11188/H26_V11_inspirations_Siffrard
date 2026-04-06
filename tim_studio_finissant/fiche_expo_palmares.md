@@ -128,6 +128,8 @@ liens des cours que j'ai cité: https://www.cmontmorency.qc.ca/programmes/nos-pr
 
 # Technique/composante technologique que je ne connaisait pas
 
+Pour la technique/composante que je ne connaisais pas c bien les capteurs du dispositif quand les yeux les capteurset les interfaces interactives. Ces techniques/composantes permet à l'untilisateurs de se voir en train de faire ses mouvements.Aussi,ces mouvements sont directements transmis au système informatique qui fait l'analyse et donc après cela il nous permets de voir quel animal ont est sur les écrants de télévision.
+
 
 
 
