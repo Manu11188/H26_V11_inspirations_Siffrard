@@ -13,3 +13,6 @@ https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/tim_studio_
 > photo de l'affiche de l'exposition TIM,Laval,Mars 2026,photo Es
 
 # Type d'exposition
+
+L'exposition terminal est une exposition à la fois temporaire et à la fois interieure.Elle est temporaire, puissque elle utilise l'espace du studio de l'école qui doit être accessible pour les autres cours. Donc, pendant une courte periode elle accessible pour cette exposition.De plus,cette exposition est interieure puissque nous somme à l'interieur d'un batiment et à la fois nous sommes à l'interieur d'un studio ces pour.
+
