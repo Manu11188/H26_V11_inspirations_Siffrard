@@ -28,7 +28,7 @@ lien de la photo: https://deux-intelligence.github.io/deux-neurones/technique/sy
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour cette oeuvre, avant de faire l'éperience je trouvais que l'oeuvre etait asser simple et facile à jouer. Lors de ma première visite, je trouvais que les niveaux était asser simple on gagnait la partie sans aucun effort. Pour ce point lors de ma deuzième visite les niveaux ont changer un peut et la difficulté aussi. J'ai beaucoup aimé comment le jeu à été monter le fait qu'on doit rétiré des déchets de l'océan donc un pas pour améliorer l'environement elle ont voulu faire un message de sensibilisation pour l'environement et je trouve que cela à été reussi. Aux niveaux du control utilisateur je trouve que ces simple est cela est plus une force que un default le fait que le control utilisateur est simple à comprendre il est donc acessible pour tout le monde.
+Pour cette oeuvre, avant de faire l'expérience je trouvais que l'oeuvre etait asser simple et facile à jouer. Lors de ma première visite, je trouvais que les niveaux était asser simple on gagnait la partie sans faire aucun effort. Pour ce point, lors de ma deuzième visite les niveaux ont changer un peut et la difficulté aussi. J'ai beaucoup aimé comment le jeu à été monter le fait qu'on doit rétiré des déchets de l'océan donc un pas pour améliorer l'environement elle ont voulu faire un message de sensibilisation pour l'environement et je trouve que cela à été reussi. Aux niveaux du control utilisateur je trouve que ces simple est cela est plus une force que un default le fait que le control utilisateur est simple à comprendre il est donc acessible pour tout le monde.
 
 # Quand les yeux
 
@@ -96,7 +96,7 @@ lien de la photo: https://o-i-g-n-o-n.github.io/Mission-decollage/medias/images/
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de controle pour jouer au jeu etait aussi un peu difficile à comprendre mais après les exlication cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu enconre une fois, je trouve que le concept de jeu équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel je trouve que cette ajout est d'une grande importance pour accesibilté du jeu.
+Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de controle pour jouer au jeu etait aussi un peu difficile à comprendre mais après les explications cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu enconre une fois, je trouve que le concept de jeu équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel je trouve que cette ajout est d'une grande importance pour accesibilté du jeu.
 
 # Arbre en face
 
@@ -118,7 +118,7 @@ lien de la photo: https://github.com/user-attachments/assets/a38288bd-df49-4a2c-
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour mon expérianceau sujet de l'oeuvre, bien que cette oeuvre sois la dernière de ma liste cela est a cette position seulement par interets. Sinon j'ai trouvé que au niveaux de l'oeuvre il n`y a pas eu de changements entre ma première et ma deuzième visite. Selon moi l'interacitivté de cette expreiance est très bien reussi j'ai bien aimé le fait que l'on peut voit nos face et avec l'interaction on peut faire des plantes. Au niveaux du contraste j'ai bien aimé les couleurs rentre extemement bien dans le thèmes de la nature. Au niveau de l'acessibilié je trouve que leur concept est simple et efficace à comprendre en plus de leur explication ces une belle experiance a essayer.
+Pour mon expériance au sujet de l'oeuvre, bien que cette oeuvre sois la dernière de ma liste cela est a cette position seulement par interets. Sinon j'ai trouvé que au niveaux de l'oeuvre il n`y a pas eu de changements entre ma première et ma deuzième visite. Selon moi l'interacitivté de cette expérience est très bien reussi j'ai bien aimé le fait que l'on peut voit nos face et avec l'interaction on peut faire des plantes. Au niveaux du contraste j'ai bien aimé les couleurs rentre extemement bien dans le thèmes de la nature. Au niveau de l'acessibilié je trouve que leur concept est simple et efficace à comprendre en plus de leur explication ces une belle experiance a essayer.
 
 # Cours du programme qui permmetent la création de dispostif/oeuvre
 
