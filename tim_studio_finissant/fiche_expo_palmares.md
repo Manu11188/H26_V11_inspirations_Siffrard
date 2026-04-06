@@ -12,7 +12,8 @@ Voici les créatrices de cette oeuvre: Amira Tounekti et Kristy Moussally
 
 # Installation en cours
 
-![dispositif_ocean_rouge_](https://github.com/user-attachments/assets/8242cb79-d08e-4feb-bdfa-35acf67d2d1e)
+![dispositif_ocean_rouge_](https://github.com/user-attachments/assets/b99133b8-cfb2-4cd9-a50f-55e80227037e)
+
 
 
 
