@@ -28,7 +28,7 @@ lien de la photo: https://deux-intelligence.github.io/deux-neurones/technique/sy
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour cette oeuvre, avant de faire l'expérience je trouvais que l'oeuvre etait asser simple et facile à jouer. Lors de ma première visite, je trouvais que les niveaux était asser simple on gagnait la partie sans faire aucun effort. Pour ce point, lors de ma deuzième visite les niveaux ont changer ansi que la difficulté. J'ai beaucoup aimé comment le jeu à été monter le fait qu'on doit rétiré des déchets de l'océan donc un pas pour améliorer l'environement elle ont voulu faire un message de sensibilisation pour l'environement et je trouve que cela à été reussi. Aux niveaux du control utilisateur je trouve que ces simple est cela est plus une force que un default le fait que le control utilisateur est simple à comprendre il est donc acessible pour tout le monde.
+Pour cette oeuvre, avant de faire l'expérience je trouvais que l'oeuvre etait asser simple et facile à jouer. Lors de ma première visite, je trouvais que les niveaux était asser simple on gagnait la partie sans faire aucun effort. Pour ce point, lors de ma deuzième visite les niveaux ont changer ansi que la difficulté. J'ai beaucoup aimé comment le jeu à été monter le fait qu'on doit rétiré des déchets de l'océan donc de un c'est un pas pour améliorer l'environement elle ont voulu faire un message de sensibilisation pour l'environement et je trouve que cela à été reussi. Aux niveaux du control utilisateur je trouve que ces simple cela est plus une force que un default le fait que le control utilisateur est simple et facile à comprendre il est donc acessible pour tout le monde.
 
 # Quand les yeux
 
@@ -50,7 +50,7 @@ Lien de la photo: https://emersiaa.github.io/Quand-les-yeux-se-croisent/techniqu
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour l'oeuvre du nom quand les yeux, lors de mon entrée pour la première expérience dans le studio j'ai été intrigué par les anciennes télévisions qui était placé au centre du studio. j'ai décidé d'aller essayer l'expérience et voir quel était le but de l'oeuvre. Quand une des créatrices ma dit de mettre mes pieds dans le cercles et de regardé l'écran quand je l'ai fait au début il y avait quelque bug le but est qu'un animal apparait mais rien ne venait à l'écran. lors de ma deuzième visite, j'ai essayé et tout marchais je pouvais voir l'animal et je trouvais cela très intrigant. Aux niveau de l'éxperiece utilisateur j'ai vraiment aimé comment les télevisions était placé et aussi le fait qu'un aninmal aléatoire apparaisaient à chaque fois.
+Pour l'oeuvre du nom quand les yeux, lors de mon entrée pour la première expérience dans le studio j'ai été intrigué par les anciennes télévisions qui était placé au centre du studio. j'ai décidé d'aller essayer l'expérience et voir quel était le but de l'oeuvre. Quand une des créatrices ma dit de mettre mes pieds dans le cercles et de regardé l'écran quand je l'ai fait au début il y avait quelque bug le but est qu'un animal apparait mais rien ne venait à l'écran. lors de ma deuzième visite, j'ai essayé et tout marchais je pouvais voir l'animal et je trouvais cela très intrigant. Aux niveau de l'éxperiece utilisateur j'ai vraiment aimé comment les télevisions était placé et aussi le fait qu'un aninmal aléatoire apparaisaient à chaque fois. De plus, j'ai beaucoup aimé leur pallette de couleur je trouve que cela rentre vraiment dans le theme de la nature.
 
 # Symboise
 
@@ -78,7 +78,7 @@ Pour le dispositif multimédia symboise, je trouve que le concept du jeu d'équi
 
 # Mission
 
-Voici les créateurs dde cette oeuvre: Ahmed Kassoumi,Radhouane Kordon,Justin Monpetit,Thearylou Lach et Jad saloumi
+Voici les créateurs de cette oeuvre: Ahmed Kassoumi,Radhouane Kordon,Justin Monpetit,Thearylou Lach et Jad saloumi
 
 # Installation en cours
 
@@ -96,7 +96,7 @@ lien de la photo: https://o-i-g-n-o-n.github.io/Mission-decollage/medias/images/
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de controle pour jouer au jeu etait aussi un peu difficile à comprendre mais après les explications cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu enconre une fois, je trouve que le concept du jeux d'équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel avant de commencer le jeu,je trouve que cette ajout est d'une grande importance pour l'accesibilté du jeu.
+Pour mon expérience au sujet de cette oeuvre, lors de ma première visite j'ai tester ce dispositif et les regles était un peu difficle à comprendre. La mannette de controle pour jouer au jeu etait aussi un peu difficile à comprendre mais après les explications cetait mieux. Aussi, pour controler le jeu cetait un peu difficle mais l'équipe mission nous a acompagner pour nous faire comprendre le jeu encore une fois, je trouve que le concept du jeux d'équipe est très interrésant. j'ai beaucoup aimé la pallete de couleur associées au dispositf. Lors de ma deuzième visite avant de jouer au jeux il ont fait une petite vidéo tutoriel avant de commencer le jeu,je trouve que cette ajout est d'une grande importance pour l'accesibilté du jeu.
 
 # Arbre en face
 
@@ -118,17 +118,17 @@ lien de la photo: https://github.com/user-attachments/assets/a38288bd-df49-4a2c-
 
 # Mon expérience au sujet de l'oeuvre
 
-Pour mon expériance au sujet de l'oeuvre, bien que cette oeuvre sois la dernière de ma liste cela est a cette position seulement par interet. Sinon j'ai trouvé que au niveaux de l'oeuvre il n`y a pas eu de changements entre ma première et ma deuzième visite. Selon moi l'interacitivté de cette expérience est très bien reussi j'ai bien aimé le fait que l'on peut voit nos face et avec l'interaction on peut faire des plantes.Les capteurs qui nous prennent en photo lors de notre entré au studio est très subtile on ne le remarque pas ce sont les créateurs de l'experiances qui le mentionnent. Au niveaux du contraste j'ai bien aimé les couleurs rentre extemement bien dans le thèmes de la nature. Au niveau de l'acessibilié je trouve que leur concept est simple et efficace à comprendre en plus de leurs explications ces une belle experiance a essayer.
+Pour mon expériance au sujet de l'oeuvre, bien que cette oeuvre sois la dernière de ma liste j'ai apprécié cette expérience. Sinon j'ai trouvé que au niveaux de l'oeuvre il n'y a pas eu beaucoup de changement significatif entre ma première et ma deuzième visite. Selon moi l'interacitivté de cette expérience est très bien reussi j'ai bien aimé le fait que l'on peut voit nos face et avec l'interaction on peut faire des plantes.Les capteurs qui nous prennent en photo lors de notre entré au studio est très subtile on ne le remarque pas ce sont les créateurs de l'experiances qui le mentionnent. Au niveaux du contraste j'ai bien aimé les couleurs rentre extemement bien dans le thèmes de la nature. Au niveau de l'acessibilié je trouve que leur concept est simple et efficace à comprendre en plus de leurs explications ces une belle experiance a essayer.
 
 # Cours du programme qui permmetent la création de dispostif/oeuvre
 
-Pour crée un oeuvre/dispostif multimédia selon moi les trois cours les plus important sont: Audio je touve que les deux cours d'audio sont important pour crée un dispostif pussique si le dispositif à besoin de son nous devons être en mesure d'utilisé des logicels de son pour ansi créé ou bien importé nos son pour ensuite le placé dans notre oeuvres ou dispositif. Ensuite, le cours de réalité mixte est selon moi primordiale pour la création d'une oeuvre puissque dans le cadre de ce cours nous sommes mener a nous familiariser avec les outil de la réalites mixte donc le xr,réalité virtuelle,réalité augmenté et meme aussi le 3d. Pour le troisième cours qui perment la création d'un dispositif/oeuvre selon moi ces le cours d'installation multimédia selon moi ce cours est d'une grande importance puissque ils nous permet la réalisation d'une projection vidéo à l'aide d'un projecteur sur une grande espace.
+Pour crée un oeuvre/dispostif multimédia selon moi les trois cours les plus important sont: Audio je touve que les deux cours d'audio sont important pour crée un dispostif pussique si le dispositif à besoin de son nous devons être en mesure d'utilisé des logicels de son par exemple comme (reaper)pour ansi créé ou bien importé nos son pour ensuite le placé dans notre oeuvres ou dispositif. Ensuite, le cours de réalité mixte est selon moi primordiale pour la création d'une oeuvre puissque dans le cadre de ce cours nous sommes mener a nous familiariser avec les outils de la réalites mixte donc le xr,réalité virtuelle,réalité augmenté et aussi le 3d. Pour le troisième cours qui perment la création d'un dispositif/oeuvre selon moi ces le cours d'installation multimédia selon moi ce cours est d'une grande importance puissque ils nous permet la réalisation d'une projection vidéo à l'aide d'un projecteur sur une grande espace. Le fait de suivre et d'apprendre ce cours est selon moi primordiale pour la création d'un dispositif/oeuvre puissque comme ont peut le constater les projets multimédia dans le sutio etais des projections sur un mur sauf le jeu océan rouge.
 
 liens des cours que j'ai cité: https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
 
 # Technique/composante technologique que je ne connaisait pas
 
-Pour la technique/composante que je ne connaisais pas c bien les capteurs du dispositif quand les yeux les capteurset les interfaces interactives. Ces techniques/composantes permet à l'untilisateurs de se voir en train de faire ses mouvements.Aussi,ces mouvements sont directements transmis au système informatique qui fait l'analyse et donc après cela il nous permets de voir quel animal ont est sur les écrants de télévision.
+Pour la technique/composante que je ne connaisais pas ce sont les capteurs du dispositif quand les yeux les capteurset les interfaces interactives. Ces techniques/composantes permet à l'untilisateurs de se voir en train de faire ses mouvements.Aussi,ces mouvements sont directements transmis au système informatique qui fait l'analyse et donc après cela il nous permets de voir quel animal ont est sur les écrans de télévisions c'était une technique que je ne connaisait pas et que j'aimerais en connaitre d'avantage.
 
 
 
