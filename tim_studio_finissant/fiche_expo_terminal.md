@@ -27,7 +27,7 @@ L'exposition terminal est une exposition à la fois temporaire et à la fois int
 
 **Fait le: 2025-11-28**
 
-https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/tim_studio_finissant/medias_/affiche_terminal_.jpg?raw=true<img width="400" height="533" alt="image" src="https://github.com/user-attachments/assets/7f7e224a-7f2f-4b8c-8f27-e7f95620bda2" />
+<img width="400" height="533" alt="image" src="https://github.com/user-attachments/assets/7f7e224a-7f2f-4b8c-8f27-e7f95620bda2" />
 
 > photo de l'affiche terminal TIM,Laval,Mars 2026,photo Es
 
