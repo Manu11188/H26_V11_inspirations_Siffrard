@@ -33,6 +33,7 @@ L'exposition terminal est une exposition à la fois temporaire et à la fois int
 
 # Nom des artistes
 
+Émeryk Bélisle,Elie Daher,Ting yung lu Terry,Dana Saavedra-Torrano,Mégane Ranger
 
 # Description du dispositif
 
