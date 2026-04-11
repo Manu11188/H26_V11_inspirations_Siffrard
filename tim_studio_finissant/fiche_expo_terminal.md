@@ -8,7 +8,7 @@ L'exposition tim se situe au collège montmorency dans le grand stuido 475 Bd de
 
 # Lieu de mise en exposition
 
-https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/tim_studio_finissant/medias_/rideau_noir_.jpg?raw=true<img width="400" height="533" alt="image" src="https://github.com/user-attachments/assets/d7953615-20db-4903-b575-019041a9804c" />
+<img width="400" height="533" alt="image" src="https://github.com/user-attachments/assets/d7953615-20db-4903-b575-019041a9804c" />
 
 > photo de l'affiche de l'exposition TIM,Laval,Mars 2026,photo Es
 
