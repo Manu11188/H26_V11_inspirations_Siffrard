@@ -44,5 +44,7 @@ En entrant dans le grand studio, les personnes lisent le cartel sur notre projet
 
 source:https://pythons-5.github.io/Terminal/#/concept/
 
+# Type d'installation
+
 
  
