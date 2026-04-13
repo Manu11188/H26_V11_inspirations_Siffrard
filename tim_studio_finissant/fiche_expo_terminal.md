@@ -46,5 +46,5 @@ source:https://pythons-5.github.io/Terminal/#/concept/
 
 # Type d'installation
 
-
+Le dispositif terminal est à la fois interactif et immersif.Il est interactif puissque les utilisateurs du jeu doivent agir ces à dire qu'ils doivent guider leurs personnages et aussi coopérer ensemble.Dnas le dispositif il y a un objectif sois de faire les niveaux comme dans les jeux vidéos.Le coté immersif de ce dispositif est la coordination en temps réel et aussi la communication entre joeurs aussi le fait d'être dans un studio fait partie d'une immerssion.Pour ce dispositif si les utilisateurs ne communicent pas ensemble ils ne pourrons pas compléter les niveaux à moins que ca sois juste une perssone qui joue.
  
