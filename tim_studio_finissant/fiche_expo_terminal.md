@@ -51,4 +51,16 @@ Le dispositif terminal est à la fois interactif et immersif.Il est interactif p
 # Fonction du dispositif multimédia 
 
 Pour la scénographie du dispositif,le but est d'attirer l'attention des visiteurs pour ansi rendre l'experience golbale.Pour la mise en valeur,les créateurs du dispositif on décidé d'inclure des images et du son pour améliorer l'experience utilisateur.La mise en contexte est d'ajouter de l'accent sur les objets par exemple les obstacles et il nous mentionne l'orgine et l'utilité de cette derniere.Au niveau du support pédagogique l'équipe terminal sont la pour repondre aux questions pour améliorer l'experience utilisateurs pour ansi avoir une meilleur perception du dispositif.
+
+# Mise en espace
+
+
+
+# Composantes et techniques
+
+Aux niveaux des techniques et composantes pour ce dispositif,on re retrouve un ordinateur de controle qui fait la gestion du logiciel unity,les connections et la projections.Le mur blanc dans le studio est utilisé comme projection.Il y a aussi un routeur Wi-Fi,deux haut-parleurs amplifiées aussi le type haut-parleur est stéréo.Il y a un cable vidéo et deux cables audio.De plus,il y a des lumières au plafond de type américan dj sans oublier les rallonges et les prises de courants pour connecter les fils.Le dispositif terminal possède aussi une carte graphique pour ansi projeter les données.Comme logiciels la firme terminal utilisent reaper pour le son et principalement unity pour la gestion de projection et de compatibilité du jeu.
+
+sources des information:https://pythons-5.github.io/Terminal/#/technique/
+
+
  
