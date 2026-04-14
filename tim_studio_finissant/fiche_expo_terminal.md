@@ -58,9 +58,10 @@ Pour la scénographie du dispositif,le but est d'attirer l'attention des visiteu
 
 # Composantes et techniques
 
-https://pythons-5.github.io/Terminal/technique/diagrame2d2.png 
+<img width="1920" height="1081" alt="diagrame2d2" src="https://github.com/user-attachments/assets/ecdbbf9d-a74b-4c41-bc81-656bc4d8bdd8" />
 
-> 
+
+> images plan du studio d
 
 
 Aux niveaux des techniques et composantes pour ce dispositif,on re retrouve un ordinateur de controle qui fait la gestion du logiciel unity,les connections et la projections.Le mur blanc dans le studio est utilisé comme projection.Il y a aussi un routeur Wi-Fi,deux haut-parleurs amplifiées aussi le type haut-parleur est stéréo.Il y a un cable vidéo et deux cables audio.De plus,il y a des lumières au plafond de type américan dj sans oublier les rallonges et les prises de courants pour connecter les fils.Le dispositif terminal possède aussi une carte graphique pour ansi projeter les données.Comme logiciels la firme terminal utilisent reaper pour le son et principalement unity pour la gestion de projection et de compatibilité du jeu.
