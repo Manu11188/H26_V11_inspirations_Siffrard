@@ -62,5 +62,7 @@ Aux niveaux des techniques et composantes pour ce dispositif,on re retrouve un o
 
 sources des information:https://pythons-5.github.io/Terminal/#/technique/
 
+# Éléments nécessaires à la mise en exposition
+
 
  
