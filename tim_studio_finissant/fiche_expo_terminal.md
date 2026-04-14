@@ -68,5 +68,9 @@ sources des information:https://pythons-5.github.io/Terminal/#/technique/
 
 # Éléments nécessaires à la mise en exposition
 
+Pour la mise en exposition de ce dispositif,le studio donc l'endroit de leur exposition beaucoup d'élements nécessaires.On peut constater qu'il a des mur blanc surtout utilisé pour la projection comme cela à été menttioner dans la partie composantes et techniques.Il y a aussi des des poteaus et des grilles aux plafonds pour les lumières,haut parleurs et pour tenir les rideaux.Aux niveaux du sol il y a les prise de courants avec des caches fils.
 
+ # Ce qui vous a plu, vous a donné des idées
+
+J'ai enormément aimé ce dispositf le fait de faire un jeu vidéo dans le meme style qu'un jeu d'arcade ma vraiment plu.j'ai trouvé que la pallette de couleur,nous plonge bien dans le themes du jeu par exemples les couleurs claires des perssonages les font ressortirs des obstacles qu'il y a durant les niveaux.Cela ma inspirer pour car je suis un fan de jeu vidéos surtout dans le syle jeux d'arcarde je trouve qu'il ont fait à la fois un jeu qui rentre dans le theme des jeux videos de nos jours mais à la fois un jeux retro.Je pense que aussi le public cible est très large donc cela est accessible a tout le monde et c'est un aspect que je trouve extemement interressant.
  
