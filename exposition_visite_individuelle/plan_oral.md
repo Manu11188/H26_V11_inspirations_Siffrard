@@ -15,6 +15,9 @@ La galerie d'art Dazibao est un centre d'exposition voué à la diffusion et à 
 
 source:https://dazibao.art/mandat-mission-et-historique
 
-Le dispositif knockin'pictures off the wall est placé sur un mur un peu à l'ecart des autres oeuvres/dispositif
+Le dispositif knockin'pictures off the wall est placé sur un mur un peu à l'ecart des autres oeuvres/dispositif pour y accéder,lors de l'entrée dans la galerie il faut marcher un peu l'oeuvre est situé vers en mur en profondeur.Au niveau des composantes,il y a une installation sonnore pour le contenu multimédia du dispositif.Il y aussi,des transducteurs de basses,entilateur à servomoteur, amplificateur d’automobile, câbles pour haut-parleurs, alimentation d’ordinateur, iPhone, tuyau d’évacuation.Comme éléments, on retrouve les murs blancs,les plafond suspendus,les cables,les prise de courants et le 
+
+
+source:https://dazibao.art/exposition-the-art-gallery-problem
 
 
