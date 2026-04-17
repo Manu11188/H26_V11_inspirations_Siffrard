@@ -1,6 +1,6 @@
 # Introduction
 
-Nom de l'oeuvre:knockin'pictures off the wall (faire tomber les images du mur
+Nom de l'oeuvre:knockin'pictures off the wall (faire tomber les images du mur)
 
 Nom de l'artiste:Jeremy Toussaint-Baptiste
 
@@ -10,3 +10,11 @@ Cette présentation,Fera part de la vistie de la galerie d'art dazibo et de la d
 
 
 # Développement 
+
+La galerie d'art Dazibao est un centre d'exposition voué à la diffusion et à la médiation des pratiques actuelles de l'image qui soutient la recherche, l'expérimentation et la réflexion critique en valorisant des pratiques qui prennent ancrage dans des enjeux de société actuels.De plus,Dazibao est un centre dédié aux artistes qui offre un accompagnement de qualité et un soutien attentif de la conception à la diffusion d’un projet. Dazibao travaille à ce que chaque collaboration avec un artiste constitue une expérience qui impacte significativement le développement de son art et le rayonnement de sa pratique.
+
+source:https://dazibao.art/mandat-mission-et-historique
+
+Le dispositif knockin'pictures off the wall est placé sur un mur un peu à l'ecart des autres oeuvres/dispositif
+
+
