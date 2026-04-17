@@ -20,3 +20,5 @@ Le dispositif knockin'pictures off the wall est placé sur un mur un peu à l'ec
 source:https://dazibao.art/exposition-the-art-gallery-problem
 
 Au sujets de mon experience vécu,Lors de mon entrée dans le batiment de cette galerie, ont peut voir qu'il a une ambiance chaleureuse avec aussi beaucoup de chemin qu'on peut prendre. Lors de mon entrée dans la galerie dazibo ont ce fait bien accueillir. Ensuite, on peut se prommener et voir les oeuvres qui sont disponibles en comptant l'oeuvre que je vous documente il y en a six au total dans cette magnifique galerie d'art.
+
+Mon appréciation critique
