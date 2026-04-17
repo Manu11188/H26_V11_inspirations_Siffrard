@@ -23,4 +23,6 @@ Au sujets de mon experience vécu,Lors de mon entrée dans le batiment de cette 
 
 Pour mon appréciation critique,Ce qui ma plus dans cette oeuvre, est l'originalité de l'oeuvre puissque elle reste simple. l'artiste, utilise des objets technologiques simple par exemple il a utilisé un iphone ce qui est très original. Aussi avec ces aspects cela fesait très différent d'une oeuvre un peu plus traditionelle, ou par exemple on regarde juste un tableau. Cette oeuvre,amène une visibilité compltementement différente de l'experience grâce au facteurs sononre qui est à la fois très riche.Un aspect que j'aurais fait autrement,seraient simplement d'ajouter un élément visuel comme une vidéo ou on vois des autouroutes proche d'une banlieu qui vibrent grace à des effets de montage, pour acompagner la vibration et le son que l'oeuvre nous offre deja. Je pense fortement que cette ajout aurais rendu cette expérience encore plus immersive.
 
+Je trouve que ce dispositif à une ressemblances avec l'oeuvre queer veuve cancer 
+
 
