@@ -14,4 +14,6 @@ Source de l'image:https://www.montrealsciencecentre.com/visitor-info
 
 > photos du centres des sciences,Montréal,Avirl 2026,photo es
 
+# Type d'exposition
+
 
