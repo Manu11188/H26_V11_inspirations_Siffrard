@@ -18,4 +18,14 @@ Source de l'image:https://www.montrealsciencecentre.com/visitor-info
 
 Ce dispositif est est une exposition permanante elle est présente au centre depuis presque dix ans.Aussi,cette exposition est interactive donc l'utilisateur peut le testé et avoir une expérience enrichisante du dispositif. 
 
+# Date de viste
+2026-04-1
 
+# Titre de l'oeuvre
+
+ **Queer,veuve,cancer**
+
+**Par: le centres des sciences et Ubisoft**
+
+**Fait entre:2017 et 2019**
+ 
