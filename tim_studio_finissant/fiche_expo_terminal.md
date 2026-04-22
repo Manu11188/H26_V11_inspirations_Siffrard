@@ -56,7 +56,7 @@ Pour la scénographie du dispositif,le but est d'attirer l'attention des visiteu
 
 <img width="1920" height="1081" alt="diagrame2d2" src="https://github.com/user-attachments/assets/ecdbbf9d-a74b-4c41-bc81-656bc4d8bdd8" />
 
-> photo du plan du studio,firme terminal,tim,Laval,photo es
+> photo du plan du studio,firme terminal,tim,Laval,photo équipe terminal
 
 # Composantes et techniques
 
