@@ -11,3 +11,7 @@ Source de l'image:https://www.montrealsciencecentre.com/visitor-info
 # Lieu de mise en exposition
 
 https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/Exposition_centre_des_sciences/Medias/vue_centre.jpg?raw=true
+
+<img width="414" height="552" alt="vue_centre" src="https://github.com/user-attachments/assets/38c2e9e8-7034-4339-ba2e-0cb52f91ea8a" />
+
+> photos du centres des sciences,Montréal,Avirl 2026,photo es
