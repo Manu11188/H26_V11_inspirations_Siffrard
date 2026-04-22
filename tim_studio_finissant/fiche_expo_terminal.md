@@ -76,4 +76,8 @@ Pour la mise en exposition de ce dispositif,le studio donc l'endroit de leur exp
  # Ce qui vous a plu, vous a donné des idées
 
 J'ai enormément aimé ce dispositf le fait de faire un jeu vidéo dans le meme style qu'un jeu d'arcade ma vraiment plu.j'ai trouvé que la pallette de couleur,nous plonge bien dans le themes du jeu par exemples les couleurs claires des perssonages les font ressortirs des obstacles qu'il y a durant les niveaux.Cela ma inspirer pour car je suis un fan de jeu vidéos surtout dans le syle jeux d'arcarde je trouve qu'il ont fait à la fois un jeu qui rentre dans le theme des jeux videos de nos jours mais à la fois un jeux retro.Je pense que aussi le public cible est très large donc cela est accessible a tout le monde et c'est un aspect que je trouve extemement interressant.
+
+# Références
+
+Toute les infos sur le dispositif:https://pythons-5.github.io/Terminal/#/
  
