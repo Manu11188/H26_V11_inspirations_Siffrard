@@ -37,9 +37,6 @@ L'exposition terminal est une exposition à la fois temporaire et à la fois int
 
 # Description du dispositif
 
-https://pythons-5.github.io/Terminal/technique/Synoptique.png
-
-
 En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres.Si quelqu'un est éliminé,tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté.
 
 source:https://pythons-5.github.io/Terminal/#/concept/
@@ -61,6 +58,12 @@ Pour la scénographie du dispositif,le but est d'attirer l'attention des visiteu
 Source de l'image:https://pythons-5.github.io/Terminal/#/technique/
 
 # Composantes et techniques
+
+<img width="700" height="1200" alt="Synoptique" src="https://github.com/user-attachments/assets/d5ced07a-0280-44d9-8c64-e2caf7b3f8c2" />
+
+> photo des composantes,firme terminal,tim,Laval,photo équipe terminal
+
+Source de l'image:https://pythons-5.github.io/Terminal/#/technique/
 
 Aux niveaux des techniques et composantes pour ce dispositif,on re retrouve un ordinateur de controle qui fait la gestion du logiciel unity,les connections et la projections.Le mur blanc dans le studio est utilisé comme projection.Il y a aussi un routeur Wi-Fi,deux haut-parleurs amplifiées aussi le type haut-parleur est stéréo.Il y a un cable vidéo et deux cables audio.De plus,il y a des lumières au plafond de type américan dj sans oublier les rallonges et les prises de courants pour connecter les fils.Le dispositif terminal possède aussi une carte graphique pour ansi projeter les données.Comme logiciels la firme terminal utilisent reaper pour le son et principalement unity pour la gestion de projection et de compatibilité du jeu.
 
