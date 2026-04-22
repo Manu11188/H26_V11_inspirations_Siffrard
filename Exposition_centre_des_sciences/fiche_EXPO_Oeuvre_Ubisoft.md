@@ -9,3 +9,5 @@ Le centre des sciences de Montréal se situe au 2 de la Commune St w,Montreal,Qu
 Source de l'image:https://www.montrealsciencecentre.com/visitor-info
 
 # Lieu de mise en exposition
+
+https://github.com/Manu11188/H26_V11_inspirations_Siffrard/blob/main/Exposition_centre_des_sciences/Medias/vue_centre.jpg?raw=true
