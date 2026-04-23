@@ -29,7 +29,7 @@ Ce dispositif est est une exposition permanante elle est présente au centre dep
 
 **Fait entre:2017 et 2019**
 
-<img width="414" height="552" alt="porte_dispositif" src="https://github.com/user-attachments/assets/b424ef07-d80a-4164-8dda-0e108ba70b24" />
+<img width="414" height="552" alt="vue_d&#39;ensemble" src="https://github.com/user-attachments/assets/2393886d-3e0e-4e27-850f-4579d376d028" />
 
  > photos d'une vue d'ensemble dispositif ubisof,Montréal,Avirl 2026,photo es
 
