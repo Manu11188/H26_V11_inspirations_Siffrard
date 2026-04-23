@@ -50,4 +50,7 @@ Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur do
 
 # Fonction du dispositif
 
+La scénographie du dispositif propose une experiance interactif avec une simulation de conduite fait avec l'intelligence artificielle.De plus,il met l'accent sur les technologies des jeu vidéos et de la programation.Ce dispositif crée par ubisoft en partenariat avec le centre des sciences de montreal agis comme support pédagogique il contribue à la diffusion d'un patrimoine immatériel liée au techonoliges numériques.
+
+# Mise en espace
 
