@@ -28,4 +28,7 @@ Ce dispositif est est une exposition permanante elle est présente au centre dep
 **Par: le centres des sciences et Ubisoft**
 
 **Fait entre:2017 et 2019**
- 
+
+<img width="414" height="552" alt="cartel_dispositif" src="https://github.com/user-attachments/assets/fba1b65c-3123-4eae-8a93-5e228f777b72" />
+
+ > photos du cartel dispositif ubisoft,Montréal,Avirl 2026,photo es
