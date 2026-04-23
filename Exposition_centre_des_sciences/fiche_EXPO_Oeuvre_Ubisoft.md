@@ -35,7 +35,10 @@ Ce dispositif est est une exposition permanante elle est présente au centre dep
 
 # Description du dispositif
 
-Ce dispositif developper par ubisoft,a pour but de récompenser les bons comportements et de decourager les mauvais.Ce dispositif est généré par l'intelligence artificielle et aussi par le "vorace auto-timmer" qui est un outil de ubisoft pour analyser et découper du contenu vidéo.
+Ce dispositif developper par ubisoft,a pour but de récompenser les bons comportements et de decourager les mauvais.Ce dispositif est généré par l'intelligence artificielle et aussi par le "vorace auto-timmer" qui est un outil de ubisoft pour analyser et découper du contenu vidéo ce système à comme motivation, de crée un système d’apprentissage automatique qui reconnaitra le dialogue à l’aide d’une analyse audio, plutôt qu’une mesure d’énergie. Notre approche repose sur les réseaux de neurones convolutifs. Le réseau est entraîné pour reproduire le travail manuel effectué sur des heures d’enregistrement en studio.
+
+source:https://montreal.ubisoft.com/fr/vorace-auto-trimmer-2/
+source:https://www.unite.ai/fr/ubisoft-trains-ai-agent-to-drive-a-car-in-a-racing-game/
 
 <img width="414" height="552" alt="cartel_dispositif" src="https://github.com/user-attachments/assets/fba1b65c-3123-4eae-8a93-5e228f777b72" />
 
