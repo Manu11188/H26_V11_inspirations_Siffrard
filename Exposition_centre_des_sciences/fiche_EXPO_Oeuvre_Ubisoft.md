@@ -23,7 +23,7 @@ Ce dispositif est est une exposition permanante elle est présente au centre dep
 
 # Titre de l'oeuvre
 
- **Queer,veuve,cancer**
+ **Test drive(Ubisoft)**
 
 **Par: le centres des sciences et Ubisoft**
 
@@ -34,6 +34,8 @@ Ce dispositif est est une exposition permanante elle est présente au centre dep
  > photos d'une vue d'ensemble dispositif ubisof,Montréal,Avirl 2026,photo es
 
 # Description du dispositif
+
+Ce dispositif developper par ubisoft,a pour but de récompenser les bons comportements et de decourager les mauvais.Ce dispositif est généré par l'intelligence artificielle et aussi par le "vorace auto-timmer" qui est un outil de ubisoft pour analyser et découper du contenu vidéo.
 
 <img width="414" height="552" alt="cartel_dispositif" src="https://github.com/user-attachments/assets/fba1b65c-3123-4eae-8a93-5e228f777b72" />
 
