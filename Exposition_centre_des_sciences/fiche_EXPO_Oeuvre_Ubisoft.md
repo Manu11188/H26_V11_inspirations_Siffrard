@@ -43,3 +43,7 @@ source:https://www.unite.ai/fr/ubisoft-trains-ai-agent-to-drive-a-car-in-a-racin
 <img width="414" height="552" alt="cartel_dispositif" src="https://github.com/user-attachments/assets/fba1b65c-3123-4eae-8a93-5e228f777b72" />
 
  > photos du cartel dispositif ubisoft,Montréal,Avirl 2026,photo es
+
+# Type d'installation
+
+Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur doit par exemple chosi la couleur de ca voiture,le type de friens,les détections d'obstacles et le style de conduite.Par la suite à l'aide de nos choix on regarde comme l'inteligence artificelle controle la voiture ce qui est très amusant comme éxperience à vivre.
