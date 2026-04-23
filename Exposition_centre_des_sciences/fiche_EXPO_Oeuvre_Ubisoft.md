@@ -46,4 +46,8 @@ source:https://www.unite.ai/fr/ubisoft-trains-ai-agent-to-drive-a-car-in-a-racin
 
 # Type d'installation
 
-Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur doit par exemple chosi la couleur de ca voiture,le type de friens,les détections d'obstacles et le style de conduite.Par la suite à l'aide de nos choix on regarde comme l'inteligence artificelle controle la voiture ce qui est très amusant comme éxperience à vivre.
+Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur doit par exemple chosi la couleur de ca voiture,le type de friens,les détections d'obstacles et le style de conduite.Par la suite à l'aide de nos choix on regarde comme l'inteligence artificelle controle la voiture donc le dispositif analyse nos paramètres et les situations et en l'escpace de quelque secondes on peut voire notre voiture ce controlé à l'ai de l'intelligience artificiel.
+
+# Fonction du dispositif
+
+
