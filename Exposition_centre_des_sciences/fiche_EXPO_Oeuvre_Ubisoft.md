@@ -65,4 +65,9 @@ Comme éléments nécessaires pour la mise en exposition, il faut une salle d'un
 
 # Éxpérience vécue
 
+J'ai bien aimé ce dispositf j'ai trouvé que mon expérience etait captivante et je parle autant pour ce dispositf que pour le centre des sciences de montreal. j'ai trouvé que cetait vraiment bien en decouvrir plus et de voir comment l'ia peut nous crée une simulation de voiture.Aussi,la pièce de ce dispositf au depart semble un peu sombre et anodin mais lorsque on comprend le dispositif ont vie une éxpérience unique et facsinante.
+
+# Ce qui vous a plus
+
+Ce qui ma plus du dispositif,est sont aspects interactif j'ai aimé vivre une éxperience ou on peut choisir nos paramètres et que selon nos paramètres chosi l'ia. De plus, je trouve que mélanger l'aspect divertissement et aprentissage était tres intéressant donc d'en savoir plus mais à la fois en s'amusant. Le dispositf ma donné quelques idées comme l'importance de l'utilsateur et aussi de rendre l'épreience le plus accessible à tous est extremement importante dans le domaines du multimédia.
 
