@@ -52,5 +52,15 @@ Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur do
 
 La scénographie du dispositif propose une experiance interactif avec une simulation de conduite fait avec l'intelligence artificielle.De plus,il met l'accent sur les technologies des jeu vidéos et de la programation.Ce dispositif crée par ubisoft en partenariat avec le centre des sciences de montreal agis comme support pédagogique il contribue à la diffusion d'un patrimoine immatériel liée au techonoliges numériques.
 
+# Composantes et techniques
+
+Ce dispositif,contient un écran tactile ou l'utilisateur choisi les parametres de ca voiture et de son type de conduite. Pour faire ce dispositf on peut utilisé un logiel de jeu vidéo et de simulation conmme unity. Aussi,il faut des hauts parleurs,des écrans,des plafond suspendus et des lumières. Comme techniques,il faut de ka programation interactive,simulation,une immersion visuelle pour offrir une belle éxperience à l'utilisateur.
+
+# Éléments nécessaires à la mise en exposition
+
+Comme éléments nécessaires pour la mise en exposition, il faut une salle d'une bonne superficie pour que les visiteurs puissent être plusieurs pour vivre l'éxperience dans la salle.Les murs blanc sont aussi neccéssaires tant que les prises de courants,les cables et aussi les projecteurs. Ces éléments sont primordiale pour la mise en exposition de cette oeuvre.
+
+# Éxpérience vécue
+
 # Mise en espace
 
