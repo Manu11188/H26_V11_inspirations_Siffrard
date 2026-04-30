@@ -6,6 +6,8 @@ Depuis toujours, on remarque l'importance de l'évolution de notre société. Un
 
 # Les dispositifs
 
+https://museebombardier.com/wp-content/uploads/2020/04/passion1-scaled-e1589988677667.jpg
+
 Pour débuter, monsieur Boucher nous à présenter un dispositif qui expliquait l'histoire de monsieur Bombardier il nous a présenté les composantes et l'histoire derrière ce dispositif. Pour le deuxième dispositif lui que je veux expliquez d'avantage se nomme zone bogie ce dispositif a été conçue en inspiration pour les 40 ans de la STM. Pour cela, monsieur Boucher nous à expliquer que l'ancien moteur et les anciennes roues du métro était liées avec le célèbre bruit du métro que l'on entend. Pour rendre cette expérience plus interactive, l’équipe du musée ont décidé de crée un jeu ou l'on doit appuyer sur les bons boutons pour obtenir la bonne combinaison de son en Hz pour que le métro puisse avancer le musée cherchaient à rendre cette expérience plus éducative.
 
 # Conclusion
