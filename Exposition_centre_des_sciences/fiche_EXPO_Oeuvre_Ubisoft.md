@@ -71,3 +71,12 @@ J'ai bien aimé ce dispositf j'ai trouvé que mon expérience etait captivante e
 
 Ce qui ma plus du dispositif,est sont aspects interactif j'ai aimé vivre une éxperience ou on peut choisir nos paramètres et que selon nos paramètres chosi l'ia. De plus, je trouve que mélanger l'aspect divertissement et aprentissage était tres intéressant donc d'en savoir plus mais à la fois en s'amusant. Le dispositf ma donné quelques idées comme l'importance de l'utilsateur et aussi de rendre l'épreience le plus accessible à tous est extremement importante dans le domaines du multimédia.
 
+# Aspects que je ne souhaite pas retenir
+
+
+# Références
+
+lien des sites: https://www.developpez.net/forums/d2035816/club-professionnels-informatique/actualites/ubisoft-construit-nouvelle-ia-apprendre-voiture-se-conduire-jeu-course/
+https://teams.microsoft.com/l/message/48:notes/1776870841670?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
+https://teams.microsoft.com/l/message/48:notes/1776870858142?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
+https://teams.microsoft.com/l/message/48:notes/1776904496810?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
