@@ -48,6 +48,8 @@ source:https://www.unite.ai/fr/ubisoft-trains-ai-agent-to-drive-a-car-in-a-racin
 
 Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur doit par exemple chosi la couleur de ca voiture,le type de friens,les détections d'obstacles et le style de conduite.Par la suite à l'aide de nos choix on regarde comme l'inteligence artificelle controle la voiture donc le dispositif analyse nos paramètres et les situations et en l'escpace de quelque secondes on peut voire notre voiture ce controlé à l'ai de l'intelligience artificiel.
 
+
+
 # Fonction du dispositif
 
 La scénographie du dispositif propose une experiance interactif avec une simulation de conduite fait avec l'intelligence artificielle.De plus,il met l'accent sur les technologies des jeu vidéos et de la programation.Ce dispositif crée par ubisoft en partenariat avec le centre des sciences de montreal agis comme support pédagogique il contribue à la diffusion d'un patrimoine immatériel liée au techonoliges numériques.
@@ -66,13 +68,26 @@ Ce dispositif,contient un écran tactile ou l'utilisateur choisi les parametres 
 
 Comme éléments nécessaires pour la mise en exposition, il faut une salle d'une bonne superficie pour que les visiteurs puissent être plusieurs pour vivre l'éxperience dans la salle.Les murs blanc sont aussi neccéssaires tant que les prises de courants,les cables et aussi les projecteurs. Ces éléments sont primordiale pour la mise en exposition de cette oeuvre.
 
+<img width="414" height="552" alt="lumiere_dispositif" src="https://github.com/user-attachments/assets/97a4b81b-d005-4afd-8e6e-d37f78df0aa9" />
+
+<img width="414" height="552" alt="mur_dispositif" src="https://github.com/user-attachments/assets/2bdfcac5-501d-48c4-81bc-a97dd489434f" />
+
+
+
 # Éxpérience vécue
 
 J'ai bien aimé ce dispositf j'ai trouvé que mon expérience etait captivante et je parle autant pour ce dispositf que pour le centre des sciences de montreal. j'ai trouvé que cetait vraiment bien en decouvrir plus et de voir comment l'ia peut nous crée une simulation de voiture.Aussi,la pièce de ce dispositf au depart semble un peu sombre et anodin mais lorsque on comprend le dispositif ont vie une éxpérience unique et facsinante.
 
+<img width="414" height="552" alt="ecran_utilisateur" src="https://github.com/user-attachments/assets/cf6d6b2a-333a-4403-b3b0-c7e87b33d247" />
+
+
 # Ce qui vous a plus
 
 Ce qui ma plus du dispositif,est sont aspects interactif j'ai aimé vivre une éxperience ou on peut choisir nos paramètres et que selon nos paramètres chosi l'ia. De plus, je trouve que mélanger l'aspect divertissement et aprentissage était tres intéressant donc d'en savoir plus mais à la fois en s'amusant. Le dispositf ma donné quelques idées comme l'importance de l'utilsateur et aussi de rendre l'épreience le plus accessible à tous est extremement importante dans le domaines du multimédia.
+
+<img width="414" height="552" alt="controle_utilisateur" src="https://github.com/user-attachments/assets/38bc75fa-c759-4f3a-9093-f48a7cf71ad2" />
+
+
 
 # Aspects que je ne souhaite pas retenir
 
