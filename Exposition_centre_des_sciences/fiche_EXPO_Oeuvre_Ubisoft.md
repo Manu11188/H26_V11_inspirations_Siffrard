@@ -68,9 +68,10 @@ Ce dispositif,contient un écran tactile ou l'utilisateur choisi les parametres 
 
 Comme éléments nécessaires pour la mise en exposition, il faut une salle d'une bonne superficie pour que les visiteurs puissent être plusieurs pour vivre l'éxperience dans la salle.Les murs blanc sont aussi neccéssaires tant que les prises de courants,les cables et aussi les projecteurs. Ces éléments sont primordiale pour la mise en exposition de cette oeuvre.
 
-<img width="414" height="552" alt="lumiere_dispositif" src="https://github.com/user-attachments/assets/97a4b81b-d005-4afd-8e6e-d37f78df0aa9" />
-
+<img width="414" height="552" alt="lumiere_dispositif" src="https://github.com/user-attachments/assets/97a4b81b-d005-4afd-8e6e-d37f78df0aa9" />   
 <img width="414" height="552" alt="mur_dispositif" src="https://github.com/user-attachments/assets/2bdfcac5-501d-48c4-81bc-a97dd489434f" />
+
+
 
 
 
