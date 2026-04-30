@@ -76,7 +76,10 @@ Ce qui ma plus du dispositif,est sont aspects interactif j'ai aimé vivre une é
 
 # Références
 
-lien des sites: https://www.developpez.net/forums/d2035816/club-professionnels-informatique/actualites/ubisoft-construit-nouvelle-ia-apprendre-voiture-se-conduire-jeu-course/
+lien des sites: https: //www.developpez.net/forums/d2035816/club-professionnels-informatique/actualites/ubisoft-construit-nouvelle-ia-apprendre-voiture-se-conduire-jeu-course/
+
 https://teams.microsoft.com/l/message/48:notes/1776870841670?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
+
 https://teams.microsoft.com/l/message/48:notes/1776870858142?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
+
 https://teams.microsoft.com/l/message/48:notes/1776904496810?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
