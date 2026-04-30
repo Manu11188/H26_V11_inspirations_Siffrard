@@ -48,6 +48,7 @@ source:https://www.unite.ai/fr/ubisoft-trains-ai-agent-to-drive-a-car-in-a-racin
 
 Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur doit par exemple chosi la couleur de ca voiture,le type de friens,les détections d'obstacles et le style de conduite.Par la suite à l'aide de nos choix on regarde comme l'inteligence artificelle controle la voiture donc le dispositif analyse nos paramètres et les situations et en l'escpace de quelque secondes on peut voire notre voiture ce controlé à l'ai de l'intelligience artificiel.
 
+<img width="414" height="552" alt="porte_dispositif" src="https://github.com/user-attachments/assets/769e97fa-1cf3-456d-a746-f6c3815470c4" />
 
 
 # Fonction du dispositif
@@ -64,14 +65,15 @@ La scénographie du dispositif propose une experiance interactif avec une simula
 
 Ce dispositif,contient un écran tactile ou l'utilisateur choisi les parametres de ca voiture et de son type de conduite. Pour faire ce dispositf on peut utilisé un logiel de jeu vidéo et de simulation conmme unity. Aussi,il faut des hauts parleurs,des écrans,des plafond suspendus et des lumières. Comme techniques,il faut de ka programation interactive,simulation,une immersion visuelle pour offrir une belle éxperience à l'utilisateur.
 
+<img width="414" height="552" alt="interface_utilisateur" src="https://github.com/user-attachments/assets/ec364869-ad46-40e6-8e25-2d3749856d1b" />
+
+
 # Éléments nécessaires à la mise en exposition
 
 Comme éléments nécessaires pour la mise en exposition, il faut une salle d'une bonne superficie pour que les visiteurs puissent être plusieurs pour vivre l'éxperience dans la salle.Les murs blanc sont aussi neccéssaires tant que les prises de courants,les cables et aussi les projecteurs. Ces éléments sont primordiale pour la mise en exposition de cette oeuvre.
 
 <img width="414" height="552" alt="lumiere_dispositif" src="https://github.com/user-attachments/assets/97a4b81b-d005-4afd-8e6e-d37f78df0aa9" />   
 <img width="414" height="552" alt="mur_dispositif" src="https://github.com/user-attachments/assets/2bdfcac5-501d-48c4-81bc-a97dd489434f" />
-
-
 
 
 
