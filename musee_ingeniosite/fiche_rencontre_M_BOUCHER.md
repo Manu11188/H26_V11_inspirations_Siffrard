@@ -11,3 +11,7 @@ Pour débuter, monsieur Boucher nous à présenter un dispositif qui expliquait 
 # Conclusion
 
 Pour conculre,j'ai bien aimer cette conférence j'ai boucoup appris sourtout au sujet des composentes de chacune des oeuvres et aussi comment elle ont été monté.Les explications de monsieur Boucher était clair ce qui à facilité ma compréenshion de la présentation et aussi le fait qu'il nous à apporter plus d'éxpérience au sujet du multimédia.
+
+# Réferences
+
+https://museebombardier.com
