@@ -50,7 +50,7 @@ Pour ce dispositif,sont type d'installation est interactif donc l'utilisateur do
 
 <img width="414" height="552" alt="porte_dispositif" src="https://github.com/user-attachments/assets/769e97fa-1cf3-456d-a746-f6c3815470c4" />
 
- > photos d'une vue d'ensemble dispositif ubisof,Montréal,Avril 2026,photo es
+ > photos de la porte dispositif ubisof,Montréal,Avril 2026,photo es
 
 # Fonction du dispositif
 
