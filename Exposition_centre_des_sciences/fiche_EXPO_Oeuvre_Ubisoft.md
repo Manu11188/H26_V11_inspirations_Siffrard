@@ -68,6 +68,8 @@ Ce dispositif,contient un écran tactile ou l'utilisateur choisi les parametres 
 
 <img width="414" height="552" alt="interface_utilisateur" src="https://github.com/user-attachments/assets/ec364869-ad46-40e6-8e25-2d3749856d1b" />
 
+ > photos centre de control dispositif ubisoft,Montréal,Avril 2026,photo es
+
 
 # Éléments nécessaires à la mise en exposition
 
@@ -76,7 +78,7 @@ Comme éléments nécessaires pour la mise en exposition, il faut une salle d'un
 <img width="414" height="552" alt="lumiere_dispositif" src="https://github.com/user-attachments/assets/97a4b81b-d005-4afd-8e6e-d37f78df0aa9" />   
 <img width="414" height="552" alt="mur_dispositif" src="https://github.com/user-attachments/assets/2bdfcac5-501d-48c4-81bc-a97dd489434f" />
 
-
+> photos mise en exposition dispositif ubisoft,Montréal,Avril 2026,photo es
 
 # Éxpérience vécue
 
@@ -102,7 +104,7 @@ Pour ce dispositif,Je rejouterais tout simplement un peut plus d'interactivité 
 
 <img width="414" height="552" alt="crédits_oeuvre" src="https://github.com/user-attachments/assets/dca6a4ed-4c00-424e-938c-06e0c10cb04e" />
 
-
+> photos des crédits dispositif ubisoft,Montréal,Avril 2026,photo es
 
 des sites: https: //www.developpez.net/forums/d2035816/club-professionnels-informatique/actualites/ubisoft-construit-nouvelle-ia-apprendre-voiture-se-conduire-jeu-course/
 
