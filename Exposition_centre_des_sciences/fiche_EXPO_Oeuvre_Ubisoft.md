@@ -99,7 +99,11 @@ Pour ce dispositif,Je rejouterais tout simplement un peut plus d'interactivité 
 
 # Références
 
-lien des sites: https: //www.developpez.net/forums/d2035816/club-professionnels-informatique/actualites/ubisoft-construit-nouvelle-ia-apprendre-voiture-se-conduire-jeu-course/
+<img width="414" height="552" alt="crédits_oeuvre" src="https://github.com/user-attachments/assets/dca6a4ed-4c00-424e-938c-06e0c10cb04e" />
+
+
+
+des sites: https: //www.developpez.net/forums/d2035816/club-professionnels-informatique/actualites/ubisoft-construit-nouvelle-ia-apprendre-voiture-se-conduire-jeu-course/
 
 https://teams.microsoft.com/l/message/48:notes/1776870841670?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A639a2a5a-c436-42b7-9c44-e81a05a7ed76%22%7D
 
