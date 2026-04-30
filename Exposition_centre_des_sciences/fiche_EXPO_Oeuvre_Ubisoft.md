@@ -86,6 +86,8 @@ J'ai bien aimé ce dispositf j'ai trouvé que mon expérience etait captivante e
 
 <img width="414" height="552" alt="ecran_utilisateur" src="https://github.com/user-attachments/assets/cf6d6b2a-333a-4403-b3b0-c7e87b33d247" />
 
+ > photos de l'écran dispositif ubisof,Montréal,Avril 2026,photo es
+
 
 # Ce qui vous a plus
 
