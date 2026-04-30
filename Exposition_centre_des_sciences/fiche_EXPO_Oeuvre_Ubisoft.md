@@ -73,6 +73,8 @@ Ce qui ma plus du dispositif,est sont aspects interactif j'ai aimé vivre une é
 
 # Aspects que je ne souhaite pas retenir
 
+Pour ce dispositif,Je rejouterais tout simplement un peut plus d'interactivité pour qu'on puisse on apprendre plus à ce sujet. par exemple, faire une exépreince en realité virtuelle de ce dispositf je trouve que cela aurait rajouté une petit touche plus amusante et à la fois éducative.
+
 
 # Références
 
