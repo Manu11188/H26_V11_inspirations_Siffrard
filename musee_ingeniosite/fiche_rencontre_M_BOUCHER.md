@@ -8,7 +8,7 @@ Depuis toujours, on remarque l'importance de l'évolution de notre société. Un
 
 <img width="681" height="383" alt="passion1-scaled-e1589988677667" src="https://github.com/user-attachments/assets/4882eb7c-dba5-442c-98da-e169829e204c" />
 
->
+> photos de l'eposition Bombardier,Montréal,Avril 2026,photo centres des sciences de Montreal
 
 Pour débuter, monsieur Boucher nous à présenter un dispositif qui expliquait l'histoire de monsieur Bombardier il nous a présenté les composantes et l'histoire derrière ce dispositif. Pour le deuxième dispositif lui que je veux expliquez d'avantage se nomme zone bogie ce dispositif a été conçue en inspiration pour les 40 ans de la STM. Pour cela, monsieur Boucher nous à expliquer que l'ancien moteur et les anciennes roues du métro était liées avec le célèbre bruit du métro que l'on entend. Pour rendre cette expérience plus interactive, l’équipe du musée ont décidé de crée un jeu ou l'on doit appuyer sur les bons boutons pour obtenir la bonne combinaison de son en Hz pour que le métro puisse avancer le musée cherchaient à rendre cette expérience plus éducative.
 
