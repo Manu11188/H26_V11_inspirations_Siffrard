@@ -95,6 +95,7 @@ Ce qui ma plus du dispositif,est sont aspects interactif j'ai aimé vivre une é
 
 <img width="414" height="552" alt="controle_utilisateur" src="https://github.com/user-attachments/assets/38bc75fa-c759-4f3a-9093-f48a7cf71ad2" />
 
+ > photos de l'écran dispositif ubisof,Montréal,Avril 2026,photo es
 
 
 # Aspects que je ne souhaite pas retenir
