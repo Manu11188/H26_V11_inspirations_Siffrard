@@ -14,7 +14,7 @@ L'exposition tim se situe au collège montmorency dans le grand stuido 475 Bd de
 
 # Type d'exposition
 
-L'exposition terminal est une exposition à la fois temporaire et à la fois interieure.Elle est temporaire, puissque elle utilise l'espace du studio de l'école qui doit être accessible pour les autres cours. Donc, pendant une courte periode elle est accessible pour cette exposition.De plus,cette exposition est interieure puissque nous sommes à l'interieur d'un batiment et à la fois nous sommes à l'interieur d'un studio ces pour ces raisons que le dispositif terminal est temporaire en non permanante. 
+L'exposition terminal est une exposition à la fois temporaire et à la fois interieure.Elle est temporaire, puisqu’elle utilise l'espace du studio de l'école qui doit être accessible pour les autres cours. Donc, pendant une courte période elle est accessible pour cette exposition. De plus, cette exposition est intérieure puisque nous sommes à l'intérieur d'un bâtiment et à la fois nous sommes à l'intérieur d'un studio ces pour ces raisons que le dispositif terminal est temporaire en non permanente.
 
 # Date de viste
 2026-03-17
@@ -37,17 +37,18 @@ L'exposition terminal est une exposition à la fois temporaire et à la fois int
 
 # Description du dispositif
 
-En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres.Si quelqu'un est éliminé,tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté.
+En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres. Si quelqu'un est éliminé, tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté.
 
 source:https://pythons-5.github.io/Terminal/#/concept/
 
 # Type d'installation
 
-Le dispositif terminal est à la fois interactif et immersif.Il est interactif puissque les utilisateurs du jeu doivent agir ces à dire qu'ils doivent guider leurs personnages et aussi coopérer ensemble.Dans le dispositif il y a un objectif sois de faire les niveaux comme dans les jeux vidéos.Le coté immersif de ce dispositif est la coordination en temps réel et aussi la communication entre joeurs aussi le fait d'être dans un studio fait partie d'une immerssion.Pour ce dispositif si les utilisateurs ne communicent pas ensemble ils ne pourrons pas compléter les niveaux à moins que ca sois juste une perssone qui joue.
+Le dispositif terminal est à la fois interactif et immersif. Il est interactif puisque les utilisateurs du jeu doivent agir c’est à dire qu'ils doivent guider leurs personnages et aussi coopérer. Dans le dispositif il y a un objectif sois de faire les niveaux comme dans les jeux vidéo. Le coté immersif de ce dispositif est la coordination en temps réel et aussi la communication entre joueurs aussi le fait d'être dans un studio fait partie d'une immerssion.Pour ce dispositif si les utilisateurs ne communiquent pas ensemble ils ne pourront pas compléter les niveaux à moins que ça soit juste une personne qui joue.
+
 
 # Fonction du dispositif multimédia 
 
-Pour la scénographie du dispositif,le but est d'attirer l'attention des visiteurs pour ansi rendre l'experience golbale.Pour la mise en valeur,les créateurs du dispositif on décidé d'inclure des images et du son pour améliorer l'experience utilisateur.La mise en contexte est d'ajouter de l'accent sur les objets par exemple les obstacles et il nous mentionne l'orgine et l'utilité de cette derniere.Au niveau du support pédagogique l'équipe terminal sont la pour repondre aux questions pour améliorer l'experience utilisateurs pour ansi avoir une meilleur perception du dispositif.
+Pour la scénographie du dispositif, le but est d'attirer l'attention des visiteurs pour ainsi rendre l'expérience globale. Pour la mise en valeur, les créateurs du dispositif ont décidé d'inclure des images et du son pour améliorer l'expérience utilisateur. La mise en contexte est d'ajouter de l'accent sur les objets par exemple les obstacles et il nous mentionne l'origine et l'utilité de cette dernière. Au niveau du support pédagogique l'équipe terminal sont là pour répondre aux questions pour améliorer l'expérience utilisateurs pour ainsi avoir une meilleure perception du dispositif.
 
 # Mise en espace
 
@@ -65,21 +66,22 @@ Source de l'image:https://pythons-5.github.io/Terminal/#/technique/
 
 Source de l'image:https://pythons-5.github.io/Terminal/#/technique/
 
-Aux niveaux des techniques et composantes pour ce dispositif,on re retrouve un ordinateur de controle qui fait la gestion du logiciel unity,les connections et la projections.Le mur blanc dans le studio est utilisé comme projection.Il y a aussi un routeur Wi-Fi,deux haut-parleurs amplifiées aussi le type haut-parleur est stéréo.Il y a un cable vidéo et deux cables audio.De plus,il y a des lumières au plafond de type américan dj sans oublier les rallonges et les prises de courants pour connecter les fils.Le dispositif terminal possède aussi une carte graphique pour ansi projeter les données.Comme logiciels la firme terminal utilisent reaper pour le son et principalement unity pour la gestion de projection et de compatibilité du jeu.
-
+Aux niveaux des techniques et composantes pour ce dispositif, on re retrouve un ordinateur de contrôle qui fait la gestion du logiciel unity, les connections et la projection. Le mur blanc dans le studio est utilisé comme projection. Il y a aussi un routeur Wi-Fi, deux haut-parleurs amplifiées aussi le type haut-parleur est stéréo. Il y a un câble vidéo et deux câbles audio. De plus, il y a des lumières au plafond de type American dj sans oublier les rallonges et les prises de courants pour connecter les fils. Le dispositif terminal possède aussi une carte graphique pour ainsi projeter les données. Comme logiciels le firme terminale utilisent reaper pour le son et principalement unity pour la gestion de projection et de compatibilité du jeu.
 sources des information:https://pythons-5.github.io/Terminal/#/technique/
 
 # Éléments nécessaires à la mise en exposition
 
-Pour la mise en exposition de ce dispositif,le studio donc l'endroit de leur exposition beaucoup d'élements nécessaires.On peut constater qu'il a des mur blanc surtout utilisé pour la projection comme cela à été menttioner dans la partie composantes et techniques.Il y a aussi des des poteaus et des grilles aux plafonds pour les lumières,haut parleurs et pour tenir les rideaux.Aux niveaux du sol il y a les prise de courants avec des caches fils.
+Pour la mise en exposition de ce dispositif, le studio donc l'endroit de leur exposition beaucoup d'éléments nécessaires. On peut constater qu'il a des murs blancs surtout utilisé pour la projection comme cela a été mentionner dans la partie composantes et techniques. Il y a aussi des poteaux et des grilles aux plafonds pour les lumières, haut-parleurs et pour tenir les rideaux. Aux niveaux du sol il y a les prises de courants avec des caches fils.
 
  # Ce qui vous a plu, vous a donné des idées
 
-J'ai enormément aimé ce dispositf le fait de faire un jeu vidéo dans le meme style qu'un jeu d'arcade ma vraiment plu.j'ai trouvé que la pallette de couleur,nous plonge bien dans le themes du jeu par exemples les couleurs claires des perssonages les font ressortirs des obstacles qu'il y a durant les niveaux.Cela ma inspirer pour car je suis un fan de jeu vidéos surtout dans le syle jeux d'arcarde je trouve qu'il ont fait à la fois un jeu qui rentre dans le theme des jeux videos de nos jours mais à la fois un jeux retro.Je pense que aussi le public cible est très large donc cela est accessible a tout le monde et c'est un aspect que je trouve extemement interressant.
+J'ai énormément aimé ce dispositif le fait de faire un jeu vidéo dans le même style qu'un jeu d'arcade ma vraiment plu. J’ai trouvé que la palette de couleur, nous plonge bien dans le thème du jeu par exemples les couleurs claires des personnages les font ressortir des obstacles qu'il y a durant les niveaux. Cela ma inspirer pour car je suis un fan de jeu vidéo surtout dans le style jeux d'arcade je trouve qu’ils ont fait à la fois un jeu qui rentre dans le thème des jeux vidéo de nos jours mais à la fois un jeux retro. Je pense que aussi le public cible est très large donc cela est accessible à tout le monde et c'est un aspect que je trouve extrêmement intéressant.
 
 # Aspects que j'aurais fait autrement
 
-Pour ce dispositif,ce que j'aurais rajouté est tout simplement une experience plus interactive malgré que l'éxperience utilisateur est deja excellente et aussi au niveaux du jeu peut-être des niveaux bonnus par exemple quand un de personages meurent pour qu'ils puissent revenir à la vie.
+Pour ce dispositif, ce que j'aurais rajouté est tout simplement une expérience plus interactive bien que l'expérience utilisateur est déjà excellente et aussi au niveau du jeu peut-être des niveaux bonus par exemple quand un de personnages meurent pour qu'ils puissent revenir à la vie.
+
+
 
 # Références
 
