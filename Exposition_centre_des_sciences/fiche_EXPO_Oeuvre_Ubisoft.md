@@ -4,7 +4,7 @@ Le centre des sciences de Montréal se situe au 2 de la Commune St w,Montreal,Qu
 
 <img width="275" height="183" alt="centre_des_sciences_" src="https://github.com/user-attachments/assets/648a5355-d138-4ad9-9bea-86360378b4c7" />
 
-> photos du centres des sciences,Montréal,Avirl 2026,photo centres des sciences de Montreal
+> photos du centres des sciences,Montréal,Avril 2026,photo centres des sciences de Montreal
 
 Source de l'image:https://www.montrealsciencecentre.com/visitor-info
 
@@ -31,7 +31,7 @@ Ce dispositif est est une exposition permanante elle est présente au centre dep
 
 <img width="414" height="552" alt="vue_d&#39;ensemble" src="https://github.com/user-attachments/assets/2393886d-3e0e-4e27-850f-4579d376d028" />
 
- > photos d'une vue d'ensemble dispositif ubisof,Montréal,Avirl 2026,photo es
+ > photos d'une vue d'ensemble dispositif ubisof,Montréal,Avril 2026,photo es
 
 # Description du dispositif
 
@@ -54,6 +54,9 @@ La scénographie du dispositif propose une experiance interactif avec une simula
 
 # Mise en espace
 
+<img width="922" height="461" alt="corquis_dispositif_ubisoft" src="https://github.com/user-attachments/assets/a8f3843c-472b-4bfa-95e6-daa6c7e95b0d" />
+
+ > photos du croquis dispositif ubisoft,Montréal,Avril 2026,photo es
 
 # Composantes et techniques
 
